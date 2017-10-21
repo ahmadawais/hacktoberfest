@@ -12,3 +12,4 @@ Change this page and list what you learned at the meetup ğŸ• or Git resources ğ
 - [x] Ask people to contribute
 - [ ] Git resources
 - [ ] Meetup details
+- [x] From this event we come to know about the Mark-down syntax
