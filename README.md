@@ -1,4 +1,4 @@
-# 🙌 Hacktoberfest
+﻿# 🙌 Hacktoberfest
 
 This is a #Hacktoberfest training git repo on GitHub. Tada!
 
@@ -43,5 +43,7 @@ Change this page and list what you learned at the meetup 🍕 or Git resources �
  At the end of the meetup there was photo session of all participants with Mr. Ahmad Awais.
  ## My Opinions
  In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest.
- #### Best Regards:
- #### Muhammad Adnan Mohib
+
+# Feedback
+This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should 
+properly arranged on monthly basis this will a greate contribution from your side in national building. 
