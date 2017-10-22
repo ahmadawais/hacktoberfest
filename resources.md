@@ -17,3 +17,7 @@ This is a #Hacktoberfest training git repo on GitHub. Tada!
 - WordPress + Git = ♥ - Presenting [VersionPress](https://versionpress.net/)
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
 - [Top 8 Resources: WordPress with Git](https://pantheon.io/blog/top-8-resources-wordpress-git) by [PANTHEON](https://pantheon.io)
+
+### GUI Clients
+- [Official GitHub Desktop Client](https://desktop.github.com)
+- [GitKraken](https://www.gitkraken.com)
