@@ -1,6 +1,6 @@
 ﻿# 🙌 Hacktoberfest
 
-This is a #Hacktoberfest training git repo on GitHub. Tada!
+This is a #Hacktoberfest training git repo on GitHub. Tada! All of the data present on this readme or in this repo is contributed by the meetup attendees. 
 
 # What I learned at Meetups
 - Have an open mind and listen
