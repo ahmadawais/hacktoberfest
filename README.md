@@ -10,7 +10,7 @@ Change this page and list what you learned at the meetup ğŸ• or Git resources ğ
 - [x] Create the repo
 - [x] Share it at the meetup
 - [x] Ask people to contribute
-- [ ] Git resources
+- [x] Git resources
 - [ ] Meetup details
 ## MEEETUP DETAILS
 ### Introduction
