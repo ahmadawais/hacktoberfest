@@ -2,7 +2,11 @@
 
 This is a #Hacktoberfest training git repo on GitHub. Tada! All of the data present on this readme or in this repo is contributed by the meetup attendees. 
 
-# What I learned at Meetups
+## TOC
+- [Git Resources](https://github.com/ahmadawais/hacktoberfest/blob/master/resources.md)
+
+
+### What I learned at Meetups
 - Have an open mind and listen
 - Make connections with people you meet and keep them within your network
 
