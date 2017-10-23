@@ -1,4 +1,4 @@
-﻿# 🙌 Hacktoberfest
+﻿# 🙌 Hacktoberfest 2017
 
 This is a #Hacktoberfest training git repo on GitHub. Tada! All of the data present on this readme or in this repo is contributed by the meetup attendees. 
 
