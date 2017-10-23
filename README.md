@@ -18,7 +18,7 @@ Change this page and list what you learned at the meetup üçï or Git resources 
  ### A brief History of the Git
  **Mr. Ahmad Awais** told about **Linus Torvalds** the creator of the **Git**. There were many funny aspects of his life that made topic interesting. The whole meetup was interactive. Mr Ahmad Awais started any new topic by asking a questions and then giving his **opinions** :laughing: :rofl: about every question and then elaborating in a way to relate the things to make it understandable to fit in the minds of even non technical people.
  ### Introduction of Git Version Control System and Getting Started Guide
- The starting point was [Github in 15 Minuets](http://www.try.github.com) , but Mr. Ahmad Awais explained basic Git command and working of the git version control by giving relating them with real world examples and comparing it with the problem scenarios faced by the people who don't know or don't want to use the version control system. Following is the summary:
+ The starting point was [Github in 15 Minuets](http://www.try.github.com) , but Mr. Ahmad Awais explained basic Git command and working of the git version control by relating them with real world examples and comparing it with the problem scenarios faced by the people who don't know or don't want to use the version control system. Following is the summary:
  * Initializing a Git Directory
  * Add something in that repository
  * Check the status of the repository
