@@ -11,6 +11,12 @@ This is a #Hacktoberfest training git repo on GitHub. Tada!
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
 - [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
 
+### Git Books
+
+- Git Community [Book](https://book.git-scm.com)
+- Pro Git [Book](https://git-scm.com/book/en/v2), free book (CC BY-NC-SA 3.0)
+- Git Pocket [Guide](http://chimera.labs.oreilly.com/books/1230000000561)
+- Git Magic [Book](http://www-cs-students.stanford.edu/%7Eblynn/gitmagic/index.html)
 
 ### Version Control for WordPress
 
