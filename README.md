@@ -27,7 +27,7 @@ Change this page and list what you learned at the meetup 🍕 or Git resources �
  ### A brief History of the Git
  **Mr. Ahmad Awais** told about **Linus Torvalds** the creator of the **Git**. There were many funny aspects of his life that made topic interesting. The whole meetup was interactive. Mr Ahmad Awais started any new topic by asking a questions and then giving his **opinions** :laughing: :rofl: about every question and then elaborating in a way to relate the things to make it understandable to fit in the minds of even non technical people.
  ### Introduction of Git Version Control System and Getting Started Guide
- The starting point was [Github in 15 Minuets](http://www.try.github.com) , but Mr. Ahmad Awais explained basic Git command and working of the git version control by giving relating them with real world examples and comparing it with the problem scenarios faced by the people who don't know or don't want to use the version control system. Following is the summary:
+ The starting point was [Github in 15 Minuets](http://www.try.github.com) , but Mr. Ahmad Awais explained basic Git command and working of the git version control by relating them with real world examples and comparing it with the problem scenarios faced by the people who don't know or don't want to use the version control system. Following is the summary:
  * Initializing a Git Directory
  * Add something in that repository
  * Check the status of the repository
@@ -44,13 +44,11 @@ Change this page and list what you learned at the meetup 🍕 or Git resources �
  ### Question Answers
  As soon as the time was about to end, question Answer session started in which Mr. Ahmad Awais answered the queries of the participants.
  ### Refreshments
- Refreshments were given to all partipants which included :pizza: PIZZA, Bottle ( and don't know the name but was tasty :sweat_smile: ).
+ Refreshments were given to all partipants which included :pizza: Pizza, Bottle ( and don't know the name but was tasty :sweat_smile: ).
  ### Photo Session
  At the end of the meetup there was photo session of all participants with Mr. Ahmad Awais.
- ## My Opinions
- In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest.
+ 
+## Feedback
 
-# Feedback
-This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should 
-properly arranged on monthly basis this will a greate contribution from your side in national building. 
-
+* In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – [Muhammad Adnan](github.com/adnanmuhib)
+* This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should properly arranged on monthly basis this will a greate contribution from your side in national building. – Muhammad Ramzan
