@@ -25,6 +25,9 @@ Listing a few git resources here for everyone.
 - [Official GitHub Desktop Client](https://desktop.github.com)
 - [GitKraken](https://www.gitkraken.com)
 
+---
+
+## 🍕 Meetup Related! 
 
 ### What I learned at Meetups
 - Have an open mind and listen
