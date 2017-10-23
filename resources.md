@@ -10,6 +10,7 @@ This is a #Hacktoberfest training git repo on GitHub. Tada!
 - A very light, but not gentle 👊, guide to Git: [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
 - [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
+- Git CheatSheet. Here you can find all commands that user in Git (https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 
 ### Version Control for WordPress
