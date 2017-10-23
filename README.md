@@ -28,17 +28,6 @@ This is a #Hacktoberfest training git repo on GitHub. Tada! All of the data pres
 - Have an open mind and listen
 - Make connections with people you meet and keep them within your network
 
-### ▶ TODO:
-
-Change this page and list what you learned at the meetup 🍕 or Git resources 🤔.
-
-- [x] Create the repo
-- [x] Share it at the meetup
-- [x] Ask people to contribute
-- [x] Git resources
-- [ ] Meetup details
-- [x] From this event we come to know about the Mark-down syntax
-
 ## MEEETUP DETAILS
 ### Introduction
  #Hacktoberfest Meetup started right on time :wink: with the **introduction** of the meetup participants. **Mr. Ahmad Awais** sense of humor made the introduction of some participants enjoyable for every one and introduced himself in astonishing way to let the Pakistanis know that there are some people in Pakistan you should be proud of. Those were proud moments to know that Mr. Ahmad Awais has worked very hard to contribute in **Open Source Community** a lot and without any lust for money. That helped to encourage us to do so and follow his footsteps.
@@ -70,3 +59,14 @@ Change this page and list what you learned at the meetup 🍕 or Git resources �
 
 * In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – [Muhammad Adnan](github.com/adnanmuhib)
 * This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should properly arranged on monthly basis this will a greate contribution from your side in national building. – Muhammad Ramzan
+
+
+### ▶ TODO:
+Change this page and list what you learned at the meetup 🍕 or Git resources 🤔.
+
+- [x] Create the repo
+- [x] Share it at the meetup
+- [x] Ask people to contribute
+- [x] Git resources
+- [ ] Meetup details
+- [x] From this event we come to know about the Mark-down syntax
