@@ -4,6 +4,8 @@ This is a #Hacktoberfest training git repo on GitHub. All of this repo is contri
 
 ## 💜 Git Resources:
 
+Listing a few git resources here for everyone.
+
 ### Git Basics
 
 - An interactive basic tutorial to Git: [try.github.io](https://try.github.io)
