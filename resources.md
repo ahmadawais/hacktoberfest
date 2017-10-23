@@ -9,6 +9,7 @@ This is a #Hacktoberfest training git repo on GitHub. Tada!
 - An interactive basic tutorial to Git: [try.github.io](https://try.github.io)
 - A very light, but not gentle 👊, guide to Git: [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
+- [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
 
 
 ### Version Control for WordPress
