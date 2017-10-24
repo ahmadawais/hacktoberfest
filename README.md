@@ -65,7 +65,7 @@ Listing a few git resources here for everyone.
 * In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – [Muhammad Adnan](github.com/AdnanMuhib)
 * This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should properly arranged on monthly basis this will a greate contribution from your side in national building. – Muhammad Ramzan
 * It was my first time to attend such kind of event, but it encouraged me to come up as open source contributer. The talk of **MR Ahmad Awais** was really impressive, communicative. The environment of the session was kinda Q/A session and it really helped a lot. – [Muhammad Umair](github.com/mrumair)
-
+* It was a good pushup for me to start working hard and start contributing to the open source. I'll try my level best to open source my all work. And try to motivate my other fellows to the same as well. – @AliRaza1844
 
 ### ▶ TODO:
 Change this page and list what you learned at the meetup 🍕 or Git resources 🤔.
