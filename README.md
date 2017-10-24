@@ -35,7 +35,7 @@ Listing a few git resources here for everyone.
 
 ## MEEETUP DETAILS
 ### Introduction
- #Hacktoberfest Meetup started right on time :wink: with the **introduction** of the meetup participants. **Mr. Ahmad Awais** sense of humor made the introduction of some participants enjoyable for every one and introduced himself in astonishing way to let the Pakistanis know that there are some people in Pakistan you should be proud of. Those were proud moments to know that Mr. Ahmad Awais has worked very hard to contribute in **Open Source Community** a lot and without any lust for money. That helped to encourage us to do so and follow his footsteps.
+ #Hacktoberfest Meetup started right on time :wink: with the **introduction** of the meetup participants. **Mr. Ahmad Awais'** sense of humor made the introduction of some participants enjoyable for every one and introduced himself in astonishing way to let the Pakistanis know that there are some people in Pakistan you should be proud of. Those were proud moments to know that Mr. Ahmad Awais has worked very hard to contribute in **Open Source Community** a lot and without any lust for money. That helped to encourage us to do so and follow his footsteps.
  ### A brief History of the Git
  **Mr. Ahmad Awais** told about **Linus Torvalds** the creator of the **Git**. There were many funny aspects of his life that made topic interesting. The whole meetup was interactive. Mr Ahmad Awais started any new topic by asking a questions and then giving his **opinions** :laughing: :rofl: about every question and then elaborating in a way to relate the things to make it understandable to fit in the minds of even non technical people.
  ### Introduction of Git Version Control System and Getting Started Guide
@@ -62,8 +62,9 @@ Listing a few git resources here for everyone.
  
 ## Feedback
 
-* In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – Muhammad Ramzan
+* In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – [Muhammad Adnan](github.com/AdnanMuhib)
 * This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should properly arranged on monthly basis this will a greate contribution from your side in national building. – Muhammad Ramzan
+* It was my first time to attend such kind of event, but it encouraged me to come up as open source contributer. The talk of **MR Ahmad Awais** was really impressive, communicative. The environment of the session was kinda Q/A session and it really helped a lot. – [Muhammad Umair](github.com/mrumair)
 
 
 ### ▶ TODO:
