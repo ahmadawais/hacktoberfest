@@ -56,7 +56,7 @@ Listing a few git resources here for everyone.
  ### Question Answers
  As soon as the time was about to end, question Answer session started in which Mr. Ahmad Awais answered the queries of the participants.
  ### Refreshments
- Refreshments were given to all partipants which included :pizza: Pizza, Bottle ( and don't know the name but was tasty :sweat_smile: ).
+ Refreshments were given to all partipants which included :pizza: Pizza, Bottle,ginger bread .
  ### Photo Session
  At the end of the meetup there was photo session of all participants with Mr. Ahmad Awais.
  
