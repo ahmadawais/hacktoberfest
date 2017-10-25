@@ -66,6 +66,8 @@ Listing a few git resources here for everyone.
 * This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should properly arranged on monthly basis this will a greate contribution from your side in national building. – Muhammad Ramzan
 * It was my first time to attend such kind of event, but it encouraged me to come up as open source contributer. The talk of **MR Ahmad Awais** was really impressive, communicative. The environment of the session was kinda Q/A session and it really helped a lot. – [Muhammad Umair](github.com/mrumair)
 * It was a good pushup for me to start working hard and start contributing to the open source. I'll try my level best to open source my all work. And try to motivate my other fellows to the same as well. – @AliRaza1844
+* It was a good effort to teach technology related people especially for us who are Computer Science students about GIT and how they can
+contribute to the open source community by sharing they work with others via GitHub.It was a good experience to be there got a lot of motivation to work hard and participate in open source community.Next time,I will try my best to be a part of such events as you learn a lot from experienced people out there. – [Zahid jabbar]
 
 ### ▶ TODO:
 Change this page and list what you learned at the meetup 🍕 or Git resources 🤔.
