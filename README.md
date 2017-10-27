@@ -29,7 +29,7 @@ Listing a few git resources here for everyone.
 
 ## 🍕 Meetup Related! 
 
-### What I learned at Meetups
+### What I Learned at Meetups
 - Have an open mind and listen
 - Make connections with people you meet and keep them within your network
 - Talk to more people and understand how you can improve in your skills
