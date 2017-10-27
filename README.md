@@ -32,6 +32,8 @@ Listing a few git resources here for everyone.
 ### What I learned at Meetups
 - Have an open mind and listen
 - Make connections with people you meet and keep them within your network
+- Talk to more people and understand how you can improve in your skills
+- Stay till the event is over, the fun part is at the ending of the event!
 
 ## MEEETUP DETAILS
 ### Introduction
