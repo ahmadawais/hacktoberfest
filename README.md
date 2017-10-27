@@ -1,6 +1,6 @@
 ﻿# 🙌 Hacktoberfest 2017
 
-This is a #Hacktoberfest training git repo on GitHub. All of this repo is contributed by the meetup attendees. 
+This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. All of this repo is contributed by the meetup attendees. 
 
 ## 💜 Git Resources:
 
