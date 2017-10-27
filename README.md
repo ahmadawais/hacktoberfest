@@ -13,6 +13,13 @@ Listing a few git resources here for everyone.
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
 - [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
 
+## Tutorial
+*There are tons of learning material on the Web*
+
+* [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
+* [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
+* [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
+
 
 ### Version Control for WordPress
 
