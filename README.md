@@ -32,7 +32,7 @@ Listing a few git resources here for everyone.
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 
 ### ⚡️ Git for WordPress:
-
+*Tutorials for using git with WordPress*
 - [Beginner Tutorial: How to user Git for WordPress development](https://torquemag.io/2015/10/beginner-tutorial-use-git-wordpress-development/) by [NICK SCHÄFERHOFF](http://nickschaeferhoff.de)
 - WordPress + Git = ♥ - Presenting [VersionPress](https://versionpress.net/)
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
@@ -54,6 +54,8 @@ Listing a few git resources here for everyone.
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands
+* [git-extra-commands](https://medium.freecodecamp.org/the-10-github-repos-people-mention-the-most-in-freecodecamps-main-chat-room-189750600fa4) - Medium Title
+
 
 ## Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
