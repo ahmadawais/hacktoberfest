@@ -53,10 +53,11 @@ Listing a few git resources here for everyone.
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 
 ## Extensions
-*Git is designed for source control management. but people extend the idea and push version control to everywhere*
+*Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
 
 * [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
 * [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations. in developement by Microsoft.
+* [git-annex](https://git-annex.branchable.com/) - allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 
 ### ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
