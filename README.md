@@ -41,6 +41,7 @@ Listing a few git resources here for everyone.
 ### ⚡️ GUI Tools:
 *Various tools for daily operations*
 - [Official GitHub Desktop Client](https://desktop.github.com)
+- [Source Tree](https://www.sourcetreeapp.com/)
 - [GitKraken](https://www.gitkraken.com)
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
