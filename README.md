@@ -26,6 +26,7 @@ Listing a few git resources here for everyone.
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 * [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 
 ### ⚡️ Version Control for WordPress:
 
