@@ -29,6 +29,7 @@ Listing a few git resources here for everyone.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
+* [Git How To](http://githowto.com) - step by step intro
 
 ### ⚡️ Version Control for WordPress:
 
