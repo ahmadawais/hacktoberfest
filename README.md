@@ -51,6 +51,9 @@ Listing a few git resources here for everyone.
 * [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
+* [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
+* [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
