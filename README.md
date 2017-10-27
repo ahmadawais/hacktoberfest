@@ -23,6 +23,7 @@ Listing a few git resources here for everyone.
 * [Pro Git](https://git-scm.com/book/) - free Git book (CC BY-NC-SA 3.0)
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
+* [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 
 ### ⚡️ Version Control for WordPress:
 
