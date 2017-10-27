@@ -31,11 +31,8 @@ Listing a few git resources here for everyone.
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-
 
-
-* [Git-it](https://github.com/jlord/git-it-electron) - applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
-
 ### ⚡️ Git for WordPress:
-
+*Tutorials for using git with WordPress*
 - [Beginner Tutorial: How to user Git for WordPress development](https://torquemag.io/2015/10/beginner-tutorial-use-git-wordpress-development/) by [NICK SCHÄFERHOFF](http://nickschaeferhoff.de)
 - WordPress + Git = ♥ - Presenting [VersionPress](https://versionpress.net/)
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
