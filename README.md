@@ -29,7 +29,10 @@ Listing a few git resources here for everyone.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
-* [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
+* [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-
+
+
+* [Git-it](https://github.com/jlord/git-it-electron) - applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 
 ### ⚡️ Git for WordPress:
 
@@ -54,6 +57,8 @@ Listing a few git resources here for everyone.
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands
+* [git-extra-commands](https://medium.freecodecamp.org/the-10-github-repos-people-mention-the-most-in-freecodecamps-main-chat-room-189750600fa4) - Medium Title
+
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
