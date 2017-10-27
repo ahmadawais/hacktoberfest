@@ -42,8 +42,8 @@ Listing a few git resources here for everyone.
 *Various tools for daily operations*
 
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
-- [Source Tree](https://www.sourcetreeapp.com/)
-- [GitKraken](https://www.gitkraken.com)
+* [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
+* [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 
