@@ -35,6 +35,7 @@ Listing a few git resources here for everyone.
 ### ⚡️ GUI Clients:
 - [Official GitHub Desktop Client](https://desktop.github.com)
 - [GitKraken](https://www.gitkraken.com)
+* [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 
 ---
