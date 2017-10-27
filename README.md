@@ -40,7 +40,8 @@ Listing a few git resources here for everyone.
 
 ### ⚡️ GUI Tools:
 *Various tools for daily operations*
-- [Official GitHub Desktop Client](https://desktop.github.com)
+
+* [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
 - [Source Tree](https://www.sourcetreeapp.com/)
 - [GitKraken](https://www.gitkraken.com)
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
