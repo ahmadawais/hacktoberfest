@@ -27,6 +27,7 @@ Listing a few git resources here for everyone.
 * [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
+* [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 
 ### ⚡️ Version Control for WordPress:
 
@@ -39,7 +40,7 @@ Listing a few git resources here for everyone.
 *Various tools for daily operations*
 - [Official GitHub Desktop Client](https://desktop.github.com)
 - [GitKraken](https://www.gitkraken.com)
-* [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
+* [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 
 ### ⚡️ How to Contribe?
