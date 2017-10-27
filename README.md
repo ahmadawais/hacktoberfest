@@ -40,9 +40,7 @@ Listing a few git resources here for everyone.
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 
----
-
-### ⚡️ Contribution
+### ⚡️ How to Contribe?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
 - Every Pull Request must have a description.
