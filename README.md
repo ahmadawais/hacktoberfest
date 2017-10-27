@@ -21,6 +21,7 @@ Listing a few git resources here for everyone.
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book (CC BY-NC-SA 3.0)
+* [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 
 ### ⚡️ Version Control for WordPress:
 
