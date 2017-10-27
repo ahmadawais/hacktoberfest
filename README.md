@@ -31,23 +31,28 @@ Listing a few git resources here for everyone.
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 
-### ⚡️ Version Control for WordPress:
+### ⚡️ Git for WordPress:
 
 - [Beginner Tutorial: How to user Git for WordPress development](https://torquemag.io/2015/10/beginner-tutorial-use-git-wordpress-development/) by [NICK SCHÄFERHOFF](http://nickschaeferhoff.de)
 - WordPress + Git = ♥ - Presenting [VersionPress](https://versionpress.net/)
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
 - [Top 8 Resources: WordPress with Git](https://pantheon.io/blog/top-8-resources-wordpress-git) by [PANTHEON](https://pantheon.io)
 
-### ⚡️ GUI Tools:
+### ⚡️ Git Tools:
 *Various tools for daily operations*
 
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
 * [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+* [Tower](http://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
+* [SmartGit](http://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
+* [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
+* [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
+* [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 
-### ⚡️ How to Contribute?
+### ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
 - Every Pull Request must have a description.
