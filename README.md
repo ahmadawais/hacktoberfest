@@ -22,6 +22,7 @@ Listing a few git resources here for everyone.
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book (CC BY-NC-SA 3.0)
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
+* [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
 
 ### ⚡️ Version Control for WordPress:
 
