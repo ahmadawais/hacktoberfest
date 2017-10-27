@@ -51,12 +51,15 @@ Listing a few git resources here for everyone.
 * [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
+* [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
+* [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands
 
 ## Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
 
 * [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
-* [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations. in developement by Microsoft.
+* [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
 * [git-annex](https://git-annex.branchable.com/) - allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 
 ### ⚡️ How to Contribute Here?
