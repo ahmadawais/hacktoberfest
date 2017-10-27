@@ -1,4 +1,4 @@
-﻿# 🙌 Hacktoberfest 2017
+﻿# 🙌 Hacktoberfest 2017 💜
 
 This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. All of this repo is contributed by the meetup attendees. 
 
@@ -59,7 +59,7 @@ Listing a few git resources here for everyone.
  * Forking an open source project 
  * Cloning Forked Project
  * Creating a Pull Request for the open source Project
- * And some Professionalism in doing above activities (i.e how should be Commit Message)
+ * And some Professionalism in doing above activities (i.e how commit messages should look like)
  ### About  Hacktoberfest and Sponsors
  Benefits of participating in Hactoberfest, procedure to be a part of the #Hacktoberfest and efforts of the Sponsors like #GitHub and #DigitalOcean to bring the developers and  the open source community together, were described by Mr. Ahmad Awais in encouraging way.
  ### Question Answers
