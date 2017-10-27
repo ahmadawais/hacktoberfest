@@ -45,7 +45,7 @@ Listing a few git resources here for everyone.
 ## MEEETUP DETAILS
 ### Introduction
  #Hacktoberfest Meetup started right on time :wink: with the **introduction** of the meetup participants. **Mr. Ahmad Awais'** sense of humor made the introduction of some participants enjoyable for every one and introduced himself in astonishing way to let the Pakistanis know that there are some people in Pakistan you should be proud of. Those were proud moments to know that Mr. Ahmad Awais has worked very hard to contribute in **Open Source Community** a lot and without any lust for money. That helped to encourage us to do so and follow his footsteps.
- ### A brief History of the Git
+ ### A Brief History of the Git
  **Mr. Ahmad Awais** told about **Linus Torvalds** the creator of the **Git**. There were many funny aspects of his life that made topic interesting. The whole meetup was interactive. Mr Ahmad Awais started any new topic by asking a questions and then giving his **opinions** :laughing: :rofl: about every question and then elaborating in a way to relate the things to make it understandable to fit in the minds of even non technical people.
  ### Introduction of Git Version Control System and Getting Started Guide
  The starting point was [Github in 15 Minuets](http://www.try.github.com) , but Mr. Ahmad Awais explained basic Git command and working of the git version control by relating them with real world examples and comparing it with the problem scenarios faced by the people who don't know or don't want to use the version control system. Following is the summary:
