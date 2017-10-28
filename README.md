@@ -55,7 +55,7 @@ Listing a few git resources here for everyone.
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands
 
-## Extensions
+## ⚡️ Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
 
 * [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
@@ -68,7 +68,7 @@ Make sure you follow the following simple set of rules here while trying to cont
 - Every Pull Request must have a description.
 - Write the title and description of what you have done in the imperative mode, that is as if you were commanding someone. 
     - ✅ **DO**: Start the line with "Fix", "Add", "Change". 
-    - ✅ **DON'T**: Start with "Fixed", "Added", "Adding", "Changed".
+    - 🚫 **DON'T**: Start with "Fixed", "Added", "Adding", "Changed".
     - 🎯 Read → [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)!
 - Don't end the summary line with a period - it's a title and titles don't end with a period.
 - Have fun.
