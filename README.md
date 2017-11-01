@@ -74,6 +74,7 @@ Listing a few git resources here for everyone.
 
 * [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
+* [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
