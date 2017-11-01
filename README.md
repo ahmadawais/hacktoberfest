@@ -84,6 +84,19 @@ Listing a few git resources here for everyone.
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
 
+* [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
+* [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
+* [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
+* [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
+* [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
+* [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
+* [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
+* [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
+* [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
+* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
+* [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
+
+
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
