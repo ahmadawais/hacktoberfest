@@ -114,20 +114,20 @@ Listing a few git resources here for everyone.
 - [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
 - [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
 
-## Awesome GitHub 
+## GitHub Resources
 
-> A curated list of GitHub's awesomeness
+> A curated list of GitHub's Resources.
 
 The awesomeness is currently organized into just a few different buckets: 
 
-* [Infomation for people who are new to GitHub](#infomation-for-people-who-are-new-to-github)
-* [Resources for those already familiar with GitHub](#resources-for-those-already-familiar-with-github)
-* [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
-* [Novel uses of GitHub](#novel-uses-of-github)
+* [Infomation for People Who Are New to GitHub](#infomation-for-people-who-are-new-to-github)
+* [Resources for Those Already Familiar With GitHub](#resources-for-those-already-familiar-with-github)
+* [Tips, Tricks, Tools, and Add-Ons for GitHub Power Users](#tips-tricks-tools-and-add-ons-for-github-power-users)
+* [Novel Uses of GitHub](#novel-uses-of-github)
 
 ---
 
-## Infomation for people who are new to GitHub
+## Infomation for People Who Are New to GitHub
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
 - [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team. 
@@ -147,7 +147,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 - [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
-## Resources for those already familiar with GitHub
+## Resources for Those Already Familiar With GitHub
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
@@ -162,7 +162,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
-## Tips, tricks, tools, and add-ons for GitHub power users
+## Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
@@ -192,7 +192,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your Git projects, useful for Data Science projects
 
 
-## Novel uses of GitHub
+## Novel Uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
