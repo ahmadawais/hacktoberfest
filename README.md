@@ -69,7 +69,12 @@ Listing a few git resources here for everyone.
 * [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
 * [git-annex](https://git-annex.branchable.com/) - allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 
-### ⚡️ How to Contribute Here?
+## Repository Hosting
+*People have plenty of options to host their source code*
+
+* [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
+
+## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
 - Every Pull Request must have a description.
