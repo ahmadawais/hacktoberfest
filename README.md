@@ -51,6 +51,7 @@ Listing a few git resources here for everyone.
 * [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
 * [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
 * [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
+* [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
 * [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
