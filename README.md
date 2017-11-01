@@ -78,6 +78,7 @@ Listing a few git resources here for everyone.
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [CodePlex](https://www.codeplex.com/) - Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
+* [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
 
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
