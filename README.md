@@ -62,14 +62,14 @@ Listing a few git resources here for everyone.
 * [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 
-## ⚡️ Extensions
+## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
 
 * [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
 * [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
 * [git-annex](https://git-annex.branchable.com/) - allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 
-## Repository Hosting
+## Git Repository Hosting
 *People have plenty of options to host their source code*
 
 * [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
