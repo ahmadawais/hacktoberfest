@@ -81,6 +81,9 @@ Listing a few git resources here for everyone.
 * [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
+## Self-Hosted Repository
+*Or you can host the code yourselves*
+
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
