@@ -12,6 +12,7 @@ Listing a few git resources here for everyone.
 - A very light, but not gentle 👊, guide to Git: [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
 - [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
+- [The (Written) Unwritten Guide to Pull Requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests) by [Blake Riosa](https://www.atlassian.com/blog/author/briosa)
 
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
@@ -37,6 +38,7 @@ Listing a few git resources here for everyone.
 - WordPress + Git = ♥ - Presenting [VersionPress](https://versionpress.net/)
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
 - [Top 8 Resources: WordPress with Git](https://pantheon.io/blog/top-8-resources-wordpress-git) by [PANTHEON](https://pantheon.io)
+- [Keeping WordPress Under "Version" Control with Git](https://stevegrunwell.com/blog/keeping-wordpress-under-version-control-with-git/) by [Steve Grunwell](https://stevegrunwell.com/wp-content/themes/grunwell2012)
 
 ### ⚡️ Git Tools:
 *Various tools for daily operations*
@@ -66,8 +68,8 @@ Listing a few git resources here for everyone.
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
 - Every Pull Request must have a description.
-- Write the title and description of what you have done in the imperative mode, that is as if you were commanding someone. 
-    - ✅ **DO**: Start the line with "Fix", "Add", "Change". 
+- Write the title and description of what you have done in the imperative mode, that is as if you were commanding someone.
+    - ✅ **DO**: Start the line with "Fix", "Add", "Change".
     - 🚫 **DON'T**: Start with "Fixed", "Added", "Adding", "Changed".
     - 🎯 Read → [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)!
 - Don't end the summary line with a period - it's a title and titles don't end with a period.
@@ -76,5 +78,3 @@ Make sure you follow the following simple set of rules here while trying to cont
 ## 🎯 License
 
 MIT © [Ahmad Awais](https://github.com/ahmadawais)
-
-
