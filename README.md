@@ -106,6 +106,14 @@ Listing a few git resources here for everyone.
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
+## Git Hook management
+*Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
+
+* [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
+* [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
+* [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
+* [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
+
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
