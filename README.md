@@ -69,7 +69,7 @@ Listing a few git resources here for everyone.
 - [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
 - [git-annex](https://git-annex.branchable.com/) - allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 
-## Git Repository Hosting
+## ⚡️ Git Repository Hosting
 *People have plenty of options to host their source code*
 
 - [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
@@ -81,7 +81,7 @@ Listing a few git resources here for everyone.
 - [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
 - [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
-## Git Self-Hosted Repository
+## ⚡️ Git Self-Hosted Repository
 *Or you can host the code yourselves*
 
 - [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
@@ -96,7 +96,7 @@ Listing a few git resources here for everyone.
 - [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
 - [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
-## Git Workflow
+## ⚡️ Git Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
 
 - [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
@@ -106,7 +106,7 @@ Listing a few git resources here for everyone.
 - [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 - [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
-## Git Hook management
+## ⚡️ Git Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
 - [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
@@ -114,7 +114,7 @@ Listing a few git resources here for everyone.
 - [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
 - [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
 
-## GitHub Resources
+## ⚡️ GitHub Resources
 
 > A curated list of GitHub's Resources.
 
@@ -127,7 +127,7 @@ The awesomeness is currently organized into just a few different buckets:
 
 ---
 
-## Infomation for People Who Are New to GitHub
+### Infomation for People Who Are New to GitHub
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
 - [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team. 
@@ -147,7 +147,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 - [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
-## Resources for Those Already Familiar With GitHub
+### Resources for Those Already Familiar With GitHub
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
@@ -162,7 +162,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
-## Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
+### Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
@@ -192,7 +192,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your Git projects, useful for Data Science projects
 
 
-## Novel Uses of GitHub
+### Novel Uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
@@ -203,7 +203,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 
 
 
-## Git Cheat Sheet
+## ⚡️ Git Cheat Sheet
 * [Set Up](#setup)
 * [Configuration Files](#configuration-files)
 * [Create](#create)
@@ -706,7 +706,7 @@ $ git commit -m "remove xyz file"
 ```
 <hr>
 
-## Git-Flow
+## ⚡️ Git-Flow
 Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 * [Setup](#setup)
@@ -850,7 +850,7 @@ git flow hotfix finish VERSION
 </p>
 <hr>
 
-## git-tips
+## ⚡️ Git Tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
 ### __Tools:__
