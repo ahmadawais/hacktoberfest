@@ -81,7 +81,7 @@ Listing a few git resources here for everyone.
 * [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
-## Self-Hosted Repository
+## Git Self-Hosted Repository
 *Or you can host the code yourselves*
 
 * [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
@@ -96,6 +96,15 @@ Listing a few git resources here for everyone.
 * [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
+## Git Workflow
+*Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
+
+* [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
+* [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) - the most well-known Git workflow model
+* [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - a simple branching model with a single master
+* [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
+* [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
