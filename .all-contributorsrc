@@ -1,0 +1,20 @@
+{
+  "projectName": "Hacktoberfest",
+  "projectOwner": "ahmadawais",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "ahmadawais",
+      "name": "Ahmad Awais ⚡️",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/960133?v=4",
+      "profile": "https://AhmadAwais.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
+}
