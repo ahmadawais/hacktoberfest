@@ -1,5 +1,5 @@
 # 🙌 Hacktoberfest 2017
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
 
@@ -2062,8 +2062,8 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars1.githubusercontent.com/u/960133?v=4" width="100px;"/><br /><sub><b>Ahmad Awais ⚡️</b></sub>](https://AhmadAwais.com/)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=ahmadawais "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/33280058?v=4" width="100px;"/><br /><sub><b>WPCS</b></sub>](https://github.com/wpcontentstudio)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=wpcontentstudio "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/33150922?v=4" width="100px;"/><br /><sub><b>Iftikhar Ahmad</b></sub>](https://github.com/driftikharahmad)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=driftikharahmad "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/33154719?v=4" width="100px;"/><br /><sub><b>Mr Billoo</b></sub>](https://github.com/mrbilloo)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=mrbilloo "Documentation") |
-| :---: | :---: | :---: | :---: |
+| [<img src="https://avatars1.githubusercontent.com/u/960133?v=4" width="100px;"/><br /><sub><b>Ahmad Awais ⚡️</b></sub>](https://AhmadAwais.com/)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=ahmadawais "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/33280058?v=4" width="100px;"/><br /><sub><b>WPCS</b></sub>](https://github.com/wpcontentstudio)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=wpcontentstudio "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/33150922?v=4" width="100px;"/><br /><sub><b>Iftikhar Ahmad</b></sub>](https://github.com/driftikharahmad)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=driftikharahmad "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/33154719?v=4" width="100px;"/><br /><sub><b>Mr Billoo</b></sub>](https://github.com/mrbilloo)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=mrbilloo "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/19692245?v=4" width="100px;"/><br /><sub><b>Ahmad Bilal</b></sub>](https://github.com/mrahmadbilal)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=mrahmadbilal "Documentation") |
+| :---: | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
