@@ -255,7 +255,7 @@ $ git config --global user.email “[valid-email]”
 $ git config --global color.ui auto
 ```
 
-##### Set global editor for commit
+##### Set global editor for commit:
 ```
 $ git config --global core.editor vi
 ```
