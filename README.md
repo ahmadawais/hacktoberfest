@@ -3,6 +3,10 @@
 
 This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
 
+[Meetup Event](https://www.meetup.com/DigitalOceanLahore/events/244307272/) sponsorship [DigitalOcean →](https://www.digitalocean.com/)
+
+![DO](https://on.ahmda.ws/rlEn/c)
+
 ## 💙 Git Resources:
 
 Listing a few git resources here for everyone.
@@ -2023,6 +2027,8 @@ Make sure you follow the following simple set of rules here while trying to cont
 
 ### 🙌 [WPCOUPLE PARTNERS](https://WPCouple.com/partners):
 This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://WPCouple.com/partners)
+
+![DO](https://on.ahmda.ws/rlEn/c)
 
 <table width='100%'>
 	<tr>
