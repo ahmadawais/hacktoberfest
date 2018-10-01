@@ -24,6 +24,7 @@ Listing a few git resources here for everyone.
 
 - [Try Git](https://try.github.io/) — learn Git in 15 minutes with pseudo-terminal interface
 - [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request) — learn to create a GitHub Pull Request
+- [GitHub Learning Paths](https://services.github.com/on-demand/resources/learning-path/) — learn about Git, Setup, GitHub, and a lot more
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) — comprehensive tutorial on Git
 - [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) — all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 - [Learn Version Control with Git](https://www.git-tower.com/learn/) — freemium ebook from fournova Software (makers for Tower), associated with paid video course
