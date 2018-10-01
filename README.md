@@ -22,20 +22,21 @@ Listing a few git resources here for everyone.
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
 
-- [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
-- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
-- [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
-- [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
-- [Pro Git](https://git-scm.com/book/) - free Git book (CC BY-NC-SA 3.0)
-- [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
-- [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
-- [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
-- [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
-- [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
-- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
-- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
-- [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
-- [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
+- [Try Git](https://try.github.io/) — learn Git in 15 minutes with pseudo-terminal interface
+- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request) — learn to create a GitHub Pull Request
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) — comprehensive tutorial on Git
+- [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) — all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
+- [Learn Version Control with Git](https://www.git-tower.com/learn/) — freemium ebook from fournova Software (makers for Tower), associated with paid video course
+- [Pro Git](https://git-scm.com/book/) — free Git book (CC BY-NC-SA 3.0)
+- [The Git Community Book](https://schacon.github.io/gitbook/) — book built by dozens of people in the Git community
+- [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) — a short O'Reilly book on Git
+- [Git Real: Code School](https://www.codeschool.com/courses/git-real/) — paid training course from Code School
+- [Git Branching](http://pcottle.github.io/learnGitBranching/) — visual way to learn git branching
+- [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) — tutorial-based book by Manning Publications
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) — short book about Git
+- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) — great series of articles about Git
+- [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
+- [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) — Use Git LFS on an existing repository to manage large files in a better way
 
 ### ⚡️ Git for WordPress:
 
@@ -48,82 +49,82 @@ Listing a few git resources here for everyone.
 ### ⚡️ Git Tools:
 *Various tools for daily operations*
 
-- [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
-- [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
-- [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
-- [Tower](http://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
-- [SmartGit](http://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
-- [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
-- [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
-- [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
-- [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
-- [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
-- [MyRepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
-- [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
+- [GitHub Desktop](https://desktop.github.com/) — Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
+- [SourceTree](https://www.sourcetreeapp.com/) — free (in-beer) GUI client. Windows and Mac only
+- [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+- [Tower](http://www.git-tower.com/) — a popular non-free Git GUI client. Mac and Windows
+- [SmartGit](http://www.syntevo.com/smartgit/) — a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
+- [RabbitVCS](http://rabbitvcs.org/) — TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
+- [gitg](https://wiki.gnome.org/Apps/Gitg/) — a open-source GTK+ GUI client
+- [git-cola](http://git-cola.github.io/) — a cross-platform Git GUI client
+- [SGit](https://github.com/sheimi/SGit) — Git client for Android 4.x
+- [Ungit](https://github.com/FredrikNoren/ungit) — The easiest way to use git. On any platform. Anywhere.
+- [MyRepos](https://myrepos.branchable.com/) — a tool to manage multiple version control repositories
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) — lists more than 20 git addons including all available commands
+- [GitIgnore Collection](https://github.com/github/gitignore) — collection of gitignore files for various programming language
 - [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
-- [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands
-- [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
-- [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
-- [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
+- [git-extra-commands](https://github.com/unixorn/git-extra-commands) — Another collection of useful git commands
+- [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+- [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
+- [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
 
-- [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
-- [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
-- [git-annex](https://git-annex.branchable.com/) - allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
+- [Git Large File Storage](https://git-lfs.github.com/) — practical solution for versioning large files. supported by GitHub
+- [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) — solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
+- [git-annex](https://git-annex.branchable.com/) — allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 
 ## ⚡️ Git Repository Hosting
 *People have plenty of options to host their source code*
 
-- [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
-- [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
-- [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
-- [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
-- [CodePlex](https://www.codeplex.com/) - Microsoft’s free open source code hosting service with many ASP/C# OSS projects
-- [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
-- [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
-- [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
+- [GitHub](http://github.com/) — the de-facto git hosting service. Perfect integration with most external services.
+- [GitLab.com](https://about.gitlab.com/gitlab-com/) — a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
+- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (5 user max).
+- [Kiln](https://www.fogcreek.com/kiln/) — paid Git repository hosting service
+- [CodePlex](https://www.codeplex.com/) — Microsoft’s free open source code hosting service with many ASP/C# OSS projects
+- [AWS CodeCommit](https://aws.amazon.com/codecommit/) — a SaaS service provided by Amazon Web Service on high availability infrastructure
+- [Codeplane](https://codeplane.com/) — a paid Git repository hosting service with no contributor limit
+- [Deveo](https://deveo.com/) — a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
 ## ⚡️ Git Self-Hosted Repository
 *Or you can host the code yourselves*
 
-- [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
-- [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
-- [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
-- [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
-- [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
-- [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
-- [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
-- [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
-- [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
-- [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
-- [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
+- [Gitolite](http://gitolite.com/gitolite/) — a simple with fine-grained access control
+- [GitHub Enterprise](https://enterprise.github.com/) — self-hosted solution provided from GitHub
+- [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) — self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
+- [GitLab CE/EE](https://gitlab.com/) — a popular open-source Git (CE) with paid support option (EE).
+- [Upsource](https://www.jetbrains.com/upsource) — recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
+- [GitBucket](https://github.com/takezoe/gitbucket/) — a GitHub clone powered by Scala.
+- [Gogs](http://gogs.io/) — a self-hosted Git Service written in Go.
+- [GitBlit](http://gitblit.com/) — Pure Java Stack for managing, view, and serving Git repositories.
+- [Apache Allura](https://allura.apache.org/) — an open source implementation of project hosting platform
+- [Phabricator](https://www.phacility.com/) — an integrated set of powerful tools to help companies build higher quality software
+- [RhodeCode CE/EE](https://rhodecode.com/) — a platform delivering enterprise source code management
 
 ## ⚡️ Git Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
 
 - [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 - [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) - the most well-known Git workflow model
-- [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - a simple branching model with a single master
+- [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) — the most well-known Git workflow model
+- [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) — a simple branching model with a single master
 - [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 - [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
 ## ⚡️ Git Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
-- [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
-- [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
-- [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
-- [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
+- [pre-commit](http://pre-commit.com/) — a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
+- [Overcommit](https://github.com/brigade/overcommit/) — a extendable Git hook manager written with Ruby.
+- [git-hooks](https://github.com/icefox/git-hooks/) — tool to manage project, user, and global Git hooks
+- [quickhook](https://github.com/dirk/quickhook/) — a fast, Unix'y, opinionated Git hook runner
 
 ## ⚡️ GitHub Resources
 
 > A curated list of GitHub's Resources.
 
-The awesomeness is currently organized into just a few different buckets: 
+The awesomeness is currently organized into just a few different buckets:
 
 * [Infomation for People Who Are New to GitHub](#infomation-for-people-who-are-new-to-github)
 * [Resources for Those Already Familiar With GitHub](#resources-for-those-already-familiar-with-github)
@@ -133,78 +134,78 @@ The awesomeness is currently organized into just a few different buckets:
 ---
 
 ### Infomation for People Who Are New to GitHub
-- [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
+- [Code School's Try Git](https://try.github.io/levels/1/challenges/1) — If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
-- [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team. 
+- [On-Demand GitHub Training](https://services.github.com/on-demand/) — Self-paced, interactive projects created and maintained by GitHub's own Training team.
 - [Bingo Board](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
-- [Writing on GitHub](https://help.github.com/articles/writing-on-github/) - GitHub's own guide to using GitHub for more than just software development.
-- [GitHubGuides](https://www.youtube.com/user/GitHubGuides) - GitHub Training & Guides on YouTube.
-- [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
+- [Writing on GitHub](https://help.github.com/articles/writing-on-github/) — GitHub's own guide to using GitHub for more than just software development.
+- [GitHubGuides](https://www.youtube.com/user/GitHubGuides) — GitHub Training & Guides on YouTube.
+- [GitHub Pages](https://pages.github.com/) — Websites for you and your projects.
 Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 - Filetypes that GitHub can do magic with:
-  - [GeoJSON/TopoJSON](https://github.com/blog/1528-there-s-a-map-for-that) - Instantly [render maps](https://github.com/benbalter/dc-maps/blob/master/maps/embassies.geojson) when you add a GeoJSON file to a repository.
-  - [iPython/Jupyter](https://github.com/blog/1995-github-jupyter-notebooks-3) - Yes, that's right, GitHub also renders `ipynb` files right in the browser. [The possibilities are endless](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
-  - [PDF](https://github.com/blog/1974-pdf-viewing) - View PDFs right in your browser.
-  - [STL files](https://github.com/blog/1465-stl-file-viewing) - It's pretty amazing, 3D right in the browser.
-  - [CSV](https://github.com/blog/1601-see-your-csvs) - Data journalists and civic data nerds rejoice, comma separated values right in the browser!
-  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
-  - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
-- [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
-- [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
+  - [GeoJSON/TopoJSON](https://github.com/blog/1528-there-s-a-map-for-that) — Instantly [render maps](https://github.com/benbalter/dc-maps/blob/master/maps/embassies.geojson) when you add a GeoJSON file to a repository.
+  - [iPython/Jupyter](https://github.com/blog/1995-github-jupyter-notebooks-3) — Yes, that's right, GitHub also renders `ipynb` files right in the browser. [The possibilities are endless](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+  - [PDF](https://github.com/blog/1974-pdf-viewing) — View PDFs right in your browser.
+  - [STL files](https://github.com/blog/1465-stl-file-viewing) — It's pretty amazing, 3D right in the browser.
+  - [CSV](https://github.com/blog/1601-see-your-csvs) — Data journalists and civic data nerds rejoice, comma separated values right in the browser!
+  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) — Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
+  - [PSD](https://github.com/blog/1845-psd-viewing-diffing) — That's right, same idea as SVG, but for Photoshop files!
+- [GitHub Government Community](https://github.com/government/welcome) — Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
+- [Classroom for GitHub](https://classroom.github.com) — Your course assignments on GitHub.
 
 ### Resources for Those Already Familiar With GitHub
 
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
-- [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) — Use this list to test your GitHub knowledge.
+- [GitHub Universe](http://githubuniverse.com/) — Two full days on how to build, collaborate, and deploy
 great software, presented by GitHub. October 1 & 2, 2015, SF.
-- [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop.
-- [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
-- [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
-- [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
-- [Resume](http://resume.github.io/) - Resumes generated using GitHub. 
-- [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
-- [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
-- [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
+- [GitHub Desktop](https://desktop.github.com/) — Simple collaboration from your desktop.
+- [Atom](https://github.com/blog/2031-announcing-atom-1-0) — Did you know that GitHub makes an editor? Use it to write, code, and more.
+- [Electron](http://electron.atom.io/) — Build cross platform desktop apps with web technologies
+- [GitHub Buttons](https://ghbtns.com/) — Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
+- [Resume](http://resume.github.io/) — Resumes generated using GitHub.
+- [Speaker Deck](https://speakerdeck.com/) — Share Presentations without the Mess, by GitHub.
+- [Blocks](http://bl.ocks.org/) — This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
+- [Block Builder](http://blockbuilder.org/) — Quickly create, edit, and fork D3.js examples
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) — Guidelines for creating template files for a GitHub project..
 
 ### Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
-- [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
-- [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
-- [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
-- [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
-- [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
-- [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
-- [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
-- [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
-- [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
-- [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
-- [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
-- [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
-- [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
-- [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
-- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.
-- [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another
-- [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
-- [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
-- [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
-- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
-- [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
-- [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
-- [Noteit](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists.
-- [Zappr](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
-- [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your Git projects, useful for Data Science projects
+- [GitHub Integrations Directory](https://github.com/integrations) — Use your favorite tools with GitHub.
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) — Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
+- [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) — Well, the link kinda' says it all.
+- [Gitter](https://gitter.im/) — Chat, for GitHub. Unlimited public rooms and one-to-one chats, free.
+- [Zenhub](https://www.zenhub.io/) — Project management inside of GitHub, including kanban boards and more.
+- [HuBoard](https://huboard.com/) — Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
+- [Overv.io](https://overv.io/) — Agile project management for teams who love GitHub. Kanban baords and more.
+- [Penflip](https://www.penflip.com/) — Collaborative writing and version control, powered by GitLab (similar to GitHub).
+- [Gitbook](https://www.gitbook.com/) — A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
+- [Prose](http://prose.io/#about) — Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub.
+- [Redliner](https://github.com/benbalter/redliner) — A tool for facilitating the redlining of documents with the GitHub uninitiated.
+- [Gatekeeper](https://github.com/prose/gatekeeper) — Enables client-side applications to dance OAuth with GitHub.
+- [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) — Microservice to enable GitHub login for multiple server-less applications.
+- [Hub](https://github.com/github/hub) — A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+- [Ghizmo](https://github.com/jlevy/ghizmo) — A command line for GitHub, allowing access to all APIs.
+- [cli-github](https://github.com/harshasrinivas/cli-github) — Github made pretty, within the command line.
+- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) — A sophisticated dark theme for GitHub.
+- [github-issues-import](https://github.com/IQAndreas/github-issues-import) — A Python script that allows you to import issues and pull requests from one GitHub repository to another
+- [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) — A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
+- [Problem Child](https://github.com/benbalter/problem_child) — Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
+- [gitify](http://gitify.io/) — All your GitHub notifications on your menu.
+- [HubPress](https://github.com/HubPress/hubpress.io) — A web application to build your Blog on GitHub
+- [TinyPress](https://tinypress.co/) — TinyPress is the easiest way to publish a blog on GitHub.
+- [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) — Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
+- [Noteit](https://github.com/Krukov/noteit) — Manage your notes at CLI with GitHub Gists.
+- [Zappr](https://github.com/zalando/zappr) — A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
+- [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) — Easily manage huge files in your Git projects, useful for Data Science projects
 
 
 ### Novel Uses of GitHub
 
-- [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
-- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
-- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
-- [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
-- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
-- [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
+- [Mozilla Festival](https://github.com/mozilla/mozfest-program) — Mozfest 2015 Program on GitHub.
+- [Open Source Society University](https://github.com/open-source-society/computer-science) — Path to a free self-taught education in Computer Science.
+- [Clef's Handbook](https://github.com/clef/handbook) — An employee handbook built for inclusion.
+- [The United States Code](https://github.com/divegeek/uscode) — The complete United States Code.
+- [Le code civil français sous git](https://github.com/steeve/france.code-civil) — French Civil Code on GitHub.
+- [Gitron](https://gitron.herokuapp.com) — A web game about GitHub based on Tron movies.
 
 
 
@@ -860,7 +861,7 @@ git flow hotfix finish VERSION
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) — A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
@@ -1256,7 +1257,7 @@ git branch --contains <commit-ish>
 
 ## Git Aliases
 ```sh
-git config --global alias.<handle> <command> 
+git config --global alias.<handle> <command>
 git config --global alias.st status
 ```
 
@@ -1456,7 +1457,7 @@ __Alternatives:__
 git branch -m [<old-branch-name>] <new-branch-name>
 ```
 
-## Rebases 'feature' to 'master' and merges it in to master 
+## Rebases 'feature' to 'master' and merges it in to master
 ```sh
 git rebase master feature && git checkout master && git merge -
 ```
@@ -1755,12 +1756,12 @@ git checkout master && git branch --no-merged
 
 ## Find guilty with binary search
 ```sh
-git bisect start                    # Search start 
-git bisect bad                      # Set point to bad commit 
-git bisect good v2.6.13-rc2         # Set point to good commit|tag 
-git bisect bad                      # Say current state is bad 
-git bisect good                     # Say current state is good 
-git bisect reset                    # Finish search 
+git bisect start                    # Search start
+git bisect bad                      # Set point to bad commit
+git bisect good v2.6.13-rc2         # Set point to good commit|tag
+git bisect bad                      # Say current state is bad
+git bisect good                     # Say current state is good
+git bisect reset                    # Finish search
 
 ```
 
