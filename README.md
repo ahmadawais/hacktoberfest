@@ -81,7 +81,7 @@ Listing a few git resources here for everyone.
 
 - [GitHub](http://github.com/) — the de-facto git hosting service. Perfect integration with most external services.
 - [GitLab.com](https://about.gitlab.com/gitlab-com/) — a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
-- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (5 user max).
+- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (maximum of 5 users).
 - [Kiln](https://www.fogcreek.com/kiln/) — paid Git repository hosting service
 - [CodePlex](https://www.codeplex.com/) — Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 - [AWS CodeCommit](https://aws.amazon.com/codecommit/) — a SaaS service provided by Amazon Web Service on high availability infrastructure
