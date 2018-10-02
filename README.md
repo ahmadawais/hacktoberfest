@@ -68,6 +68,7 @@ Listing a few git resources here for everyone.
 - [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 - [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
 - [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
+- [Git Commands](https://github.com/mariorodeghiero/git-commands/) —  desktop app built with ElectronJS and ReactJS to be cross-platform, providing quick access to the main Git commands and with direct links to the documentation.
 
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
