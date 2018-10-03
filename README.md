@@ -615,6 +615,11 @@ $ git mergetool
 $ git merge <branch>
 ```
 
+##### Merge branch without fast forward (keeps the notion of explicit branches):
+```
+$ git merge --no-ff <branch>
+```
+
 ##### Rebase your current HEAD onto &lt;branch&gt;:<br>
 <em><sub>Don't rebase published commit!</sub></em>
 
