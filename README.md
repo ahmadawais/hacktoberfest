@@ -65,6 +65,7 @@ Listing a few git resources here for everyone.
 - [GitIgnore Collection](https://github.com/github/gitignore) — collection of gitignore files for various programming language
 - [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 - [git-extra-commands](https://github.com/unixorn/git-extra-commands) — Another collection of useful git commands
+- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day
 - [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 - [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
 - [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
