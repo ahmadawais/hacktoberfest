@@ -38,6 +38,9 @@ Listing a few git resources here for everyone.
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) — great series of articles about Git
 - [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) — Use Git LFS on an existing repository to manage large files in a better way
+- [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123) — The essentials of using the version control system Git
+- [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
+- [How to Use Git and GitHub](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india) — Effective use of version control
 
 ### ⚡️ Git for WordPress:
 
