@@ -1,8 +1,10 @@
 ##ADD INSTRUCTIONS FOR MAKING PR AFTER CLONING
 -This is a guide to a complete beginner to make a PR after having cloned the repo
 #STEPS
-1- Either create a new file or make some changes to the existing files.
-2-Add those changes/file to the index by "git add <file name>" command.
-3-Commit those changes by using "git commit -m <commit message>" command.
-4-After commit, push changes to remote repo by using "git push -a" command.
-5-Using Git ang GitHub is easy. Have fun in using OpenSoftware
+1-Either create a new file or make some changes to the existing files.
+2-Create a new branch by using "git branch <branch name>" command.
+3-Change to new branch created by using "git checkout <branch name>" command.
+4-Add new file/changes to new branch by using "git add <file name>"
+5-Commit these changes by using "git commit -m  <commit message>"
+6-Merge the new branch to local repo by using " git merge <branch name>" command.
+7- Push merged branch in master to remote repo by using " git push origin master" command.
