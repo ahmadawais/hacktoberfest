@@ -793,6 +793,20 @@ git flow feature publish MYFEATURE
 git flow feature pull origin MYFEATURE
 ```
 
+##### Contribute to any existing open source project on Github:
+###### First of All Choose a project you want to contribute to.
+###### Go to the repository on Github page.
+###### Press the fork button on the right side.
+###### Press the Clone button to clone that project.
+###### Create a new branch and push it.
+###### Make all the changes on that new branch.
+###### Commit all the changes to that new and push them.
+###### Now go to that existing project and create a pull request.
+###### Congratulations your job is done :).
+###### Now the people maintaining that branch will review those changes and merge them.
+
+
+
 ##### Tracking a origin feature:
 ###### You can track a feature on origin by using
 ```
