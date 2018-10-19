@@ -50,6 +50,9 @@ Listing a few git resources here for everyone.
 - [Migrating to Git LFS](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) — Use Git LFS on an existing repository to manage large files in a better way
 - [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) - CS 50 Git Tutorial 
+- [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123) — The essentials of using the version control system Git
+- [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
+- [How to Use Git and GitHub](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india) — Effective use of version control
 
 ### ⚡️ Git for WordPress:
 
