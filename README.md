@@ -7,6 +7,16 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 ![DO](https://on.ahmda.ws/rlEn/c)
 
+## 📝 About Hacktoberfest:
+
+### What is Hacktoberfest?
+
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+
+- Hacktoberfest is open to everyone in our global community!
+- Five quality pull requests must be submitted to public GitHub repositories.
+- You can sign up anytime between October 1 and October 31.
+
 ## 💙 Git Resources:
 
 Listing a few git resources here for everyone.
@@ -38,6 +48,8 @@ Listing a few git resources here for everyone.
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) — great series of articles about Git
 - [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
 - [Migrating to Git LFS](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) — Use Git LFS on an existing repository to manage large files in a better way
+- [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
+- [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) - CS 50 Git Tutorial 
 
 ### ⚡️ Git for WordPress:
 
@@ -65,9 +77,12 @@ Listing a few git resources here for everyone.
 - [GitIgnore Collection](https://github.com/github/gitignore) — collection of gitignore files for various programming language
 - [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 - [git-extra-commands](https://github.com/unixorn/git-extra-commands) — Another collection of useful git commands
+- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day
 - [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 - [GitUp](https://gitup.co) — a clean, minimal Git client. Mac only.
 - [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
+- [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
+- [Sublime Merge](https://www.sublimemerge.com/) - a cross-platform Git client from the makers of Sublime Text.
 
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
@@ -98,6 +113,7 @@ Listing a few git resources here for everyone.
 - [Upsource](https://www.jetbrains.com/upsource) — recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 - [GitBucket](https://github.com/takezoe/gitbucket/) — a GitHub clone powered by Scala.
 - [Gogs](https://gogs.io/) — a self-hosted Git Service written in Go.
+- [Gitea](https://gitea.io/) - a community managed fork of Gogs
 - [GitBlit](http://gitblit.com/) — Pure Java Stack for managing, view, and serving Git repositories.
 - [Apache Allura](https://allura.apache.org/) — an open source implementation of project hosting platform
 - [Phabricator](https://www.phacility.com/) — an integrated set of powerful tools to help companies build higher quality software
@@ -248,12 +264,12 @@ $ git config --system --list
 
 ##### Set a name that is identifiable for credit when review version history:
 ```
-$ git config --global user.name “[firstname lastname]”
+$ git config --global user.name "[firstname lastname]"
 ```
 
 ##### Set an email address that will be associated with each history marker:
 ```
-$ git config --global user.email “[valid-email]”
+$ git config --global user.email "[valid-email]"
 ```
 
 ##### Set automatic command line coloring for Git for easy reviewing:
@@ -613,6 +629,11 @@ $ git mergetool
 ##### Merge branch into your current HEAD:
 ```
 $ git merge <branch>
+```
+
+##### Merge branch without fast forward (keeps the notion of explicit branches):
+```
+$ git merge --no-ff <branch>
 ```
 
 ##### Rebase your current HEAD onto &lt;branch&gt;:<br>
@@ -2076,6 +2097,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 | [<img src="https://avatars3.githubusercontent.com/u/33279434?v=4" width="50px;"/><br /><sub><b>WPBR</b></sub>](https://github.com/wpbizreview)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=wpbizreview "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/22351781?v=4" width="50px;"/><br /><sub><b>Ali Raza</b></sub>](https://github.com/AliRaza1844)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=AliRaza1844 "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/33027331?v=4" width="50px;"/><br /><sub><b>Muhammad Umair</b></sub>](https://github.com/mrumair)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=mrumair "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/8762441?v=4" width="50px;"/><br /><sub><b>Muhammad Arslan Aslam</b></sub>](https://arslanaslam.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=arximughal "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/1655744?v=4" width="50px;"/><br /><sub><b>Pablo Rubianes</b></sub>](http://www.pablorubianes.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=prubianes "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/18069154?v=4" width="50px;"/><br /><sub><b>Muhammad Adnan</b></sub>](http://www.adnanmuhib.tk)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=AdnanMuhib "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/10456188?v=4" width="50px;"/><br /><sub><b>Raymond Chung</b></sub>](https://rchung95.github.io)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=rchung95 "Documentation") |
 | [<img src="https://avatars0.githubusercontent.com/u/30586875?v=4" width="50px;"/><br /><sub><b>MuhammadRamzan54</b></sub>](https://github.com/MuhammadRamzan54)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MuhammadRamzan54 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/9569997?v=4" width="50px;"/><br /><sub><b>Kustiawanto Halim</b></sub>](https://github.com/kuwali)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=kuwali "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/23556297?v=4" width="50px;"/><br /><sub><b>Endless7188</b></sub>](https://github.com/Endless7188)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=Endless7188 "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/31374163?v=4" width="50px;"/><br /><sub><b>Saqib Ameen</b></sub>](http://saqibameen.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MrSaqibAmeen "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/29942713?v=4" width="50px;"/><br /><sub><b>Sudais Asif</b></sub>](https://sudaisasif.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=sudaisasif "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/28730791?v=4" width="50px;"/><br /><sub><b>Rijuth Menon</b></sub>](https://rijuthmenon.me)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MarkisDev "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/12096863?v=4" width="50px;"/><br /><sub><b>Luís Melo</b></sub>](http://luisfmelo.xyz)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=luisfmelo "Documentation") |
 | [<img src="https://avatars2.githubusercontent.com/u/12535300?v=4" width="50px;"/><br /><sub><b>Elias-Isaac Phiri</b></sub>](http://www.agorainnovatus.com/)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=Elias504 "Documentation") |
+| [<img src="https://avatars3.githubusercontent.com/u/836532?v=4" width="50px;"/><br /><sub><b>StarChow</b></sub>](https://github.com/starchow)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=starchow "Documentation") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
