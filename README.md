@@ -190,7 +190,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) — Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) — Well, the link kinda' says it all.
 - [Gitter](https://gitter.im/) — Chat, for GitHub. Unlimited public rooms and one-to-one chats, free.
-- [Zenhub](https://www.zenhub.io/) — Project management inside of GitHub, including kanban boards and more.
+- [ZenHub](https://www.zenhub.io/) — Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) — Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
 - [Overv.io](https://overv.io/) — Agile project management for teams who love GitHub. Kanban baords and more.
 - [Penflip](https://www.penflip.com/) — Collaborative writing and version control, powered by GitLab (similar to GitHub).
@@ -201,7 +201,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) — Microservice to enable GitHub login for multiple server-less applications.
 - [Hub](https://github.com/github/hub) — A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo](https://github.com/jlevy/ghizmo) — A command line for GitHub, allowing access to all APIs.
-- [cli-github](https://github.com/harshasrinivas/cli-github) — Github made pretty, within the command line.
+- [cli-github](https://github.com/harshasrinivas/cli-github) — GitHub made pretty, within the command line.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) — A sophisticated dark theme for GitHub.
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) — A Python script that allows you to import issues and pull requests from one GitHub repository to another
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) — A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
