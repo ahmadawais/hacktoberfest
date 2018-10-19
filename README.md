@@ -7,6 +7,16 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 ![DO](https://on.ahmda.ws/rlEn/c)
 
+## 📝 About Hacktoberfest:
+
+### What is Hacktoberfest?
+
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+
+- Hacktoberfest is open to everyone in our global community!
+- Five quality pull requests must be submitted to public GitHub repositories.
+- You can sign up anytime between October 1 and October 31.
+
 ## 💙 Git Resources:
 
 Listing a few git resources here for everyone.
@@ -31,14 +41,16 @@ Listing a few git resources here for everyone.
 - [Pro Git](https://git-scm.com/book/) — free Git book (CC BY-NC-SA 3.0)
 - [The Git Community Book](https://schacon.github.io/gitbook/) — book built by dozens of people in the Git community
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) — a short O'Reilly book on Git
-- [Git Real: Code School](https://www.codeschool.com/courses/git-real/) — paid training course from Code School
+- [Git Real: Code School](https://www.pluralsight.com/courses/code-school-git-real) — paid training course from Code School
 - [Git Branching](http://pcottle.github.io/learnGitBranching/) — visual way to learn git branching
 - [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) — tutorial-based book by Manning Publications
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) — short book about Git
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) — great series of articles about Git
 - [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) — Use Git LFS on an existing repository to manage large files in a better way
+- [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) - CS 50 Git Tutorial 
+
 
 ### ⚡️ Git for WordPress:
 
@@ -69,6 +81,7 @@ Listing a few git resources here for everyone.
 - [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 - [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
 - [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
+- [Sublime Merge](https://www.sublimemerge.com/) - a cross-platform Git client from the makers of Sublime Text.
 
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
@@ -82,7 +95,7 @@ Listing a few git resources here for everyone.
 
 - [GitHub](http://github.com/) — the de-facto git hosting service. Perfect integration with most external services.
 - [GitLab.com](https://about.gitlab.com/gitlab-com/) — a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
-- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (5 user max).
+- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (maximum of 5 users).
 - [Kiln](https://www.fogcreek.com/kiln/) — paid Git repository hosting service
 - [CodePlex](https://www.codeplex.com/) — Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 - [AWS CodeCommit](https://aws.amazon.com/codecommit/) — a SaaS service provided by Amazon Web Service on high availability infrastructure
@@ -192,7 +205,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) — A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
 - [Problem Child](https://github.com/benbalter/problem_child) — Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 - [gitify](http://gitify.io/) — All your GitHub notifications on your menu.
-- [HubPress](https://github.com/HubPress/hubpress.io) — A web application to build your Blog on GitHub
+- [HubPress](https://github.com/HubPress/hubpress.io) — A web application to build your Blog on GitHub.
 - [TinyPress](https://tinypress.co/) — TinyPress is the easiest way to publish a blog on GitHub.
 - [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) — Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 - [Noteit](https://github.com/Krukov/noteit) — Manage your notes at CLI with GitHub Gists.
@@ -249,12 +262,12 @@ $ git config --system --list
 
 ##### Set a name that is identifiable for credit when review version history:
 ```
-$ git config --global user.name “[firstname lastname]”
+$ git config --global user.name "[firstname lastname]"
 ```
 
 ##### Set an email address that will be associated with each history marker:
 ```
-$ git config --global user.email “[valid-email]”
+$ git config --global user.email "[valid-email]"
 ```
 
 ##### Set automatic command line coloring for Git for easy reviewing:
@@ -2077,6 +2090,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 | [<img src="https://avatars3.githubusercontent.com/u/33279434?v=4" width="50px;"/><br /><sub><b>WPBR</b></sub>](https://github.com/wpbizreview)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=wpbizreview "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/22351781?v=4" width="50px;"/><br /><sub><b>Ali Raza</b></sub>](https://github.com/AliRaza1844)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=AliRaza1844 "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/33027331?v=4" width="50px;"/><br /><sub><b>Muhammad Umair</b></sub>](https://github.com/mrumair)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=mrumair "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/8762441?v=4" width="50px;"/><br /><sub><b>Muhammad Arslan Aslam</b></sub>](https://arslanaslam.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=arximughal "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/1655744?v=4" width="50px;"/><br /><sub><b>Pablo Rubianes</b></sub>](http://www.pablorubianes.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=prubianes "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/18069154?v=4" width="50px;"/><br /><sub><b>Muhammad Adnan</b></sub>](http://www.adnanmuhib.tk)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=AdnanMuhib "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/10456188?v=4" width="50px;"/><br /><sub><b>Raymond Chung</b></sub>](https://rchung95.github.io)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=rchung95 "Documentation") |
 | [<img src="https://avatars0.githubusercontent.com/u/30586875?v=4" width="50px;"/><br /><sub><b>MuhammadRamzan54</b></sub>](https://github.com/MuhammadRamzan54)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MuhammadRamzan54 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/9569997?v=4" width="50px;"/><br /><sub><b>Kustiawanto Halim</b></sub>](https://github.com/kuwali)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=kuwali "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/23556297?v=4" width="50px;"/><br /><sub><b>Endless7188</b></sub>](https://github.com/Endless7188)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=Endless7188 "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/31374163?v=4" width="50px;"/><br /><sub><b>Saqib Ameen</b></sub>](http://saqibameen.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MrSaqibAmeen "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/29942713?v=4" width="50px;"/><br /><sub><b>Sudais Asif</b></sub>](https://sudaisasif.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=sudaisasif "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/28730791?v=4" width="50px;"/><br /><sub><b>Rijuth Menon</b></sub>](https://rijuthmenon.me)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MarkisDev "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/12096863?v=4" width="50px;"/><br /><sub><b>Luís Melo</b></sub>](http://luisfmelo.xyz)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=luisfmelo "Documentation") |
 | [<img src="https://avatars2.githubusercontent.com/u/12535300?v=4" width="50px;"/><br /><sub><b>Elias-Isaac Phiri</b></sub>](http://www.agorainnovatus.com/)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=Elias504 "Documentation") |
+| [<img src="https://avatars3.githubusercontent.com/u/836532?v=4" width="50px;"/><br /><sub><b>StarChow</b></sub>](https://github.com/starchow)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=starchow "Documentation") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
