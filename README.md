@@ -88,6 +88,7 @@ Listing a few git resources here for everyone.
 - [Octotree](https://opencollective.com/octotree) — a **must-have** browser extension to explore code on GitHub
 - [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 - [Sublime Merge](https://www.sublimemerge.com/) - a cross-platform Git client from the makers of Sublime Text.
+- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
