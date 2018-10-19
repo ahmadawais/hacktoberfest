@@ -14,7 +14,7 @@ Following is the feedback from different attendees:
 - Talk to more people and understand how you can improve in your skills
 - Stay till the event is over, the fun part is at the ending of the event!
 
-## MEEETUP DETAILS
+## MEETUP DETAILS
 ### Introduction
  #Hacktoberfest Meetup started right on time :wink: with the **introduction** of the meetup participants. **Mr. Ahmad Awais'** sense of humor made the introduction of some participants enjoyable for every one and introduced himself in astonishing way to let the Pakistanis know that there are some people in Pakistan you should be proud of. Those were proud moments to know that Mr. Ahmad Awais has worked very hard to contribute in **Open Source Community** a lot and without any lust for money. That helped to encourage us to do so and follow his footsteps.
  ### A Brief History of the Git
