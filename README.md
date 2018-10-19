@@ -49,8 +49,6 @@ Listing a few git resources here for everyone.
 - [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) — Use Git LFS on an existing repository to manage large files in a better way
 - [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
-- [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) - CS 50 Git Tutorial 
-
 
 ### ⚡️ Git for WordPress:
 
@@ -59,6 +57,7 @@ Listing a few git resources here for everyone.
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
 - [Top 8 Resources: WordPress with Git](https://pantheon.io/blog/top-8-resources-wordpress-git) by [PANTHEON](https://pantheon.io)
 - [Keeping WordPress Under "Version" Control with Git](https://stevegrunwell.com/blog/keeping-wordpress-under-version-control-with-git/) by [Steve Grunwell](https://stevegrunwell.com/wp-content/themes/grunwell2012)
+- [Updating plugins using Git and WP-CLI](https://markjaquith.wordpress.com/2018/02/12/updating-plugins-using-git-and-wp-cli/)
 
 ### ⚡️ Git Tools:
 *Various tools for daily operations*
@@ -78,11 +77,9 @@ Listing a few git resources here for everyone.
 - [GitIgnore Collection](https://github.com/github/gitignore) — collection of gitignore files for various programming language
 - [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 - [git-extra-commands](https://github.com/unixorn/git-extra-commands) — Another collection of useful git commands
-- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day
 - [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 - [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
 - [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
-- [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 - [Sublime Merge](https://www.sublimemerge.com/) - a cross-platform Git client from the makers of Sublime Text.
 
 ## ⚡️ Git Extensions
@@ -114,7 +111,6 @@ Listing a few git resources here for everyone.
 - [Upsource](https://www.jetbrains.com/upsource) — recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 - [GitBucket](https://github.com/takezoe/gitbucket/) — a GitHub clone powered by Scala.
 - [Gogs](http://gogs.io/) — a self-hosted Git Service written in Go.
-- [Gitea](https://gitea.io/) - a community managed fork of Gogs
 - [GitBlit](http://gitblit.com/) — Pure Java Stack for managing, view, and serving Git repositories.
 - [Apache Allura](https://allura.apache.org/) — an open source implementation of project hosting platform
 - [Phabricator](https://www.phacility.com/) — an integrated set of powerful tools to help companies build higher quality software
