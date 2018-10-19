@@ -134,8 +134,8 @@ The awesomeness is currently organized into just a few different buckets:
 
 ---
 ### Mobile GitHub Resources (apps)
-- [Sololearn]- Available both on android and iOS
-- [Enki] - Available on android.
+- [Sololearn](https://www.sololearn.com) - GitHub and more!! Available both on android and iOS
+- [Enki](https://www.enki.com) - Available on android.
 
 ---
 ### Infomation for People Who Are New to GitHub
