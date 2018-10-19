@@ -142,6 +142,7 @@ Listing a few git resources here for everyone.
 - [Overcommit](https://github.com/brigade/overcommit/) — a extendable Git hook manager written with Ruby.
 - [git-hooks](https://github.com/icefox/git-hooks/) — tool to manage project, user, and global Git hooks
 - [quickhook](https://github.com/dirk/quickhook/) — a fast, Unix'y, opinionated Git hook runner
+- [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
 
 ## ⚡️ GitHub Resources
 
