@@ -31,7 +31,7 @@ Listing a few git resources here for everyone.
 - [Pro Git](https://git-scm.com/book/) — free Git book (CC BY-NC-SA 3.0)
 - [The Git Community Book](https://schacon.github.io/gitbook/) — book built by dozens of people in the Git community
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) — a short O'Reilly book on Git
-- [Git Real: Code School](https://www.pluralsight.com/courses/code-school-git-real) — paid training course from Code School
+- [Git Real: Code School](https://www.codeschool.com/courses/git-real/) — paid training course from Code School
 - [Git Branching](http://pcottle.github.io/learnGitBranching/) — visual way to learn git branching
 - [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) — tutorial-based book by Manning Publications
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) — short book about Git
@@ -47,6 +47,8 @@ Listing a few git resources here for everyone.
 - A full tutorial on [Managing WordPress website with Git](https://deliciousbrains.com/storing-wordpress-in-git/), consisting 4 articles by [Delicious Brains](https://deliciousbrains.com/)
 - [Top 8 Resources: WordPress with Git](https://pantheon.io/blog/top-8-resources-wordpress-git) by [PANTHEON](https://pantheon.io)
 - [Keeping WordPress Under "Version" Control with Git](https://stevegrunwell.com/blog/keeping-wordpress-under-version-control-with-git/) by [Steve Grunwell](https://stevegrunwell.com/wp-content/themes/grunwell2012)
+- [Installing WordPress plugins and themes with git](https://www.codeinwp.com/blog/install-wordpress-plugins-from-github/
+)
 
 ### ⚡️ Git Tools:
 *Various tools for daily operations*
@@ -82,7 +84,7 @@ Listing a few git resources here for everyone.
 
 - [GitHub](http://github.com/) — the de-facto git hosting service. Perfect integration with most external services.
 - [GitLab.com](https://about.gitlab.com/gitlab-com/) — a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
-- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (maximum of 5 users).
+- [BitBucket](http://bitbucket.org/) — well-known for its free private repository (5 user max).
 - [Kiln](https://www.fogcreek.com/kiln/) — paid Git repository hosting service
 - [CodePlex](https://www.codeplex.com/) — Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 - [AWS CodeCommit](https://aws.amazon.com/codecommit/) — a SaaS service provided by Amazon Web Service on high availability infrastructure
@@ -249,12 +251,12 @@ $ git config --system --list
 
 ##### Set a name that is identifiable for credit when review version history:
 ```
-$ git config --global user.name "[firstname lastname]"
+$ git config --global user.name “[firstname lastname]”
 ```
 
 ##### Set an email address that will be associated with each history marker:
 ```
-$ git config --global user.email "[valid-email]"
+$ git config --global user.email “[valid-email]”
 ```
 
 ##### Set automatic command line coloring for Git for easy reviewing:
@@ -2077,7 +2079,6 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 | [<img src="https://avatars3.githubusercontent.com/u/33279434?v=4" width="50px;"/><br /><sub><b>WPBR</b></sub>](https://github.com/wpbizreview)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=wpbizreview "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/22351781?v=4" width="50px;"/><br /><sub><b>Ali Raza</b></sub>](https://github.com/AliRaza1844)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=AliRaza1844 "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/33027331?v=4" width="50px;"/><br /><sub><b>Muhammad Umair</b></sub>](https://github.com/mrumair)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=mrumair "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/8762441?v=4" width="50px;"/><br /><sub><b>Muhammad Arslan Aslam</b></sub>](https://arslanaslam.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=arximughal "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/1655744?v=4" width="50px;"/><br /><sub><b>Pablo Rubianes</b></sub>](http://www.pablorubianes.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=prubianes "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/18069154?v=4" width="50px;"/><br /><sub><b>Muhammad Adnan</b></sub>](http://www.adnanmuhib.tk)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=AdnanMuhib "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/10456188?v=4" width="50px;"/><br /><sub><b>Raymond Chung</b></sub>](https://rchung95.github.io)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=rchung95 "Documentation") |
 | [<img src="https://avatars0.githubusercontent.com/u/30586875?v=4" width="50px;"/><br /><sub><b>MuhammadRamzan54</b></sub>](https://github.com/MuhammadRamzan54)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MuhammadRamzan54 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/9569997?v=4" width="50px;"/><br /><sub><b>Kustiawanto Halim</b></sub>](https://github.com/kuwali)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=kuwali "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/23556297?v=4" width="50px;"/><br /><sub><b>Endless7188</b></sub>](https://github.com/Endless7188)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=Endless7188 "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/31374163?v=4" width="50px;"/><br /><sub><b>Saqib Ameen</b></sub>](http://saqibameen.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MrSaqibAmeen "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/29942713?v=4" width="50px;"/><br /><sub><b>Sudais Asif</b></sub>](https://sudaisasif.com)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=sudaisasif "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/28730791?v=4" width="50px;"/><br /><sub><b>Rijuth Menon</b></sub>](https://rijuthmenon.me)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=MarkisDev "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/12096863?v=4" width="50px;"/><br /><sub><b>Luís Melo</b></sub>](http://luisfmelo.xyz)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=luisfmelo "Documentation") |
 | [<img src="https://avatars2.githubusercontent.com/u/12535300?v=4" width="50px;"/><br /><sub><b>Elias-Isaac Phiri</b></sub>](http://www.agorainnovatus.com/)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=Elias504 "Documentation") |
-| [<img src="https://avatars3.githubusercontent.com/u/836532?v=4" width="50px;"/><br /><sub><b>StarChow</b></sub>](https://github.com/starchow)<br />[📖](https://github.com/ahmadawais/Hacktoberfest/commits?author=starchow "Documentation") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
