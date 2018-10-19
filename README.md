@@ -7,6 +7,16 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 ![DO](https://on.ahmda.ws/rlEn/c)
 
+## 📝 About Hacktoberfest:
+
+### What is Hacktoberfest?
+
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+
+- Hacktoberfest is open to everyone in our global community!
+- Five quality pull requests must be submitted to public GitHub repositories.
+- You can sign up anytime between October 1 and October 31.
+
 ## 💙 Git Resources:
 
 Listing a few git resources here for everyone.
