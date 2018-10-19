@@ -82,6 +82,7 @@ Listing a few git resources here for everyone.
 - [git-extra-commands](https://github.com/unixorn/git-extra-commands) — Another collection of useful git commands
 - [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
 - [GitExtensions](https://gitextensions.github.io/) — a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
+- [Octotree](https://opencollective.com/octotree) — a **must-have** browser extension to explore code on GitHub
 - [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 - [Sublime Merge](https://www.sublimemerge.com/) - a cross-platform Git client from the makers of Sublime Text.
 
