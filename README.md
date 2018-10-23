@@ -38,6 +38,7 @@ Listing a few git resources here for everyone.
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) — comprehensive tutorial on Git
 - [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) — all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 - [Learn Version Control with Git](https://www.git-tower.com/learn/) — freemium ebook from fournova Software (makers for Tower), associated with paid video course
+- [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - a tutorial on version control with git
 - [Pro Git](https://git-scm.com/book/) — free Git book (CC BY-NC-SA 3.0)
 - [The Git Community Book](https://schacon.github.io/gitbook/) — book built by dozens of people in the Git community
 - [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) — a short O'Reilly book on Git
@@ -1877,12 +1878,19 @@ git log --all --grep='<given-text>'
 git log master..<branch-name> --oneline | tail -1
 ```
 
+## Undos last commit but files are still staged 
+```sh
+git reset --soft HEAD
+```
+
 ## Unstaging Staged file
+
 ```sh
 git reset HEAD <file-name>
 ```
 
 ## Force push to Remote Repository
+
 ```sh
 git push -f <remote-name> <branch-name>
 ```
