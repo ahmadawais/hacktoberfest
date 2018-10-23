@@ -112,6 +112,7 @@ Listing a few git resources here for everyone.
 - [AWS CodeCommit](https://aws.amazon.com/codecommit/) — a SaaS service provided by Amazon Web Service on high availability infrastructure
 - [Codeplane](https://codeplane.com/) — a paid Git repository hosting service with no contributor limit
 - [Deveo](https://deveo.com/) — a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
+- [SourceForge](https://sourceforge.net) — a long-standing free Git repository hosting service
 
 ## ⚡️ Git Self-Hosted Repository
 *Or you can host the code yourselves*
