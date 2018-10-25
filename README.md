@@ -478,6 +478,11 @@ $ git log -p <file>
 $ git log --oneline <origin/master>..<remote/master> --left-right
 ```
 
+##### Show git log with beautiful graph tree (adog)
+```
+$ git log --all --decorate --oneline --graph
+```
+
 ##### Who changed, what and when in &lt;file&gt;:
 ```
 $ git blame <file>
