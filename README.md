@@ -2171,4 +2171,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [OAuth](https://developers.digitalocean.com/documentation/oauth/)
 - [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
 - [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
