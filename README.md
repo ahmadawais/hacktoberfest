@@ -149,7 +149,7 @@ Listing a few git resources here for everyone.
 - [quickhook](https://github.com/dirk/quickhook/) — a fast, Unix'y, opinionated Git hook runner
 - [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
 
-## ⚡️ GitHub Resources
+## :octocat: GitHub Resources
 
 > A curated list of GitHub's Resources.
 
