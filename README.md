@@ -2163,3 +2163,11 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 - [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 - [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
+
+## DigitalOcean Developer documentation
+
+- [API](https://developers.digitalocean.com/documentation/v2/)
+- [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
+- [OAuth](https://developers.digitalocean.com/documentation/oauth/)
+- [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
+- [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
