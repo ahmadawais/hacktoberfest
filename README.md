@@ -2074,8 +2074,9 @@ git checkout master@{yesterday}
 git push -u origin <branch_name>
 ```
 
-<!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->
-<!-- @doxie.inject end -->
+## Configuration management
+
+- [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
 
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
