@@ -2190,6 +2190,7 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 ## Editors
 
 - [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 
 ## Community OSS projects
 
