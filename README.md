@@ -2191,6 +2191,7 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 
 - [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
 - [Vim](https://github.com/mhinz/vim-galore#readme)
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 
 ## Community OSS projects
 
