@@ -2074,10 +2074,6 @@ git checkout master@{yesterday}
 git push -u origin <branch_name>
 ```
 
-## Configuration management
-
-- [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
-
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
@@ -2159,3 +2155,9 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 [<img alt="WajahatAnwar" src="https://avatars1.githubusercontent.com/u/18661312?v=4&s=117" width="117">](https://github.com/WajahatAnwar) |[<img alt="ybaruchel" src="https://avatars1.githubusercontent.com/u/20744388?v=4&s=117" width="117">](https://github.com/ybaruchel) |[<img alt="alljp" src="https://avatars2.githubusercontent.com/u/9149186?v=4&s=117" width="117">](https://github.com/alljp) |[<img alt="kuwali" src="https://avatars0.githubusercontent.com/u/9569997?v=4&s=117" width="117">](https://github.com/kuwali) |[<img alt="Endless7188" src="https://avatars3.githubusercontent.com/u/23556297?v=4&s=117" width="117">](https://github.com/Endless7188) |
 :---: |:---: |:---: |:---: |:---: |
 [WajahatAnwar](https://github.com/WajahatAnwar) |[ybaruchel](https://github.com/ybaruchel) |[alljp](https://github.com/alljp) |[kuwali](https://github.com/kuwali) |[Endless7188](https://github.com/Endless7188) |
+
+
+## Configuration management
+
+- [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
+- [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
