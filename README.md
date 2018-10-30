@@ -2190,3 +2190,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 ## Community OSS projects
 
 - [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
+- [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
