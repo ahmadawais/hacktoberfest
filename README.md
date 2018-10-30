@@ -2199,3 +2199,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
 - [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
 - [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
+- [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - Lita handler for managing DigitalOcean services.
