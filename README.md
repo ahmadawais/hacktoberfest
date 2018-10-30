@@ -2177,7 +2177,7 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-- [Git Tips](https://github.com/git-tips/tips#readme)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
 
 ## Open source projects
 
@@ -2186,3 +2186,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API.
 - [go-libvirt](https://github.com/digitalocean/go-libvirt)
 - [go-qemu](https://github.com/digitalocean/go-qemu)
+
