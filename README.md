@@ -2198,3 +2198,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
 - [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
 - [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
+- [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
