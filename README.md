@@ -2188,3 +2188,11 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [go-qemu](https://github.com/digitalocean/go-qemu)
 
 ## Editors
+
+- [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
+
+## Community OSS projects
+
+- [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
+- [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
+- [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
