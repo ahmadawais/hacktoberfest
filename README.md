@@ -2178,3 +2178,11 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
+
+## Open source projects
+
+- [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
+- [Netbox](https://github.com/digitalocean/netbox)
+- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API.
+- [go-libvirt](https://github.com/digitalocean/go-libvirt)
+- [go-qemu](https://github.com/digitalocean/go-qemu)
