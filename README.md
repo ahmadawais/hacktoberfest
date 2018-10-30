@@ -2187,3 +2187,6 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [go-libvirt](https://github.com/digitalocean/go-libvirt)
 - [go-qemu](https://github.com/digitalocean/go-qemu)
 
+## Community OSS projects
+
+- [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
