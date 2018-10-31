@@ -2702,3 +2702,13 @@ $ git flow release start awesome-release
 $ git flow release finish awesome-release
 $ git flow release delete awesome-release
 ```
+
+
+### flow hotfix
+
+```
+$ git flow hotfix
+$ git flow hotfix start awesome-release
+$ git flow hotfix finish awesome-release
+$ git flow hotfix delete awesome-release
+```
