@@ -238,7 +238,70 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) — French Civil Code on GitHub.
 - [Gitron](https://gitron.herokuapp.com) — A web game about GitHub based on Tron movies.
 
+## Configuration management
 
+- [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
+- [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
+- [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
+- [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
+
+## DigitalOcean Developer documentation
+
+- [API](https://developers.digitalocean.com/documentation/v2/)
+- [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
+- [OAuth](https://developers.digitalocean.com/documentation/oauth/)
+- [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
+- [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
+
+## GitHub 
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
+- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+- [Git Tips](https://github.com/git-tips/tips#readme)
+
+## Open source projects
+
+- [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
+- [Netbox](https://github.com/digitalocean/netbox)
+- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API.
+- [go-libvirt](https://github.com/digitalocean/go-libvirt)
+- [go-qemu](https://github.com/digitalocean/go-qemu)
+
+## Editors
+
+- [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
+- [Vim](https://github.com/mhinz/vim-galore#readme)
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
+
+## Community OSS projects
+
+- [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
+- [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
+- [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
+- [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
+- [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - Lita handler for managing DigitalOcean services.
+- [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with DigitalOcean Networking DNS as backend.
+- [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
+- [DigitalOcean Droplet creator](https://github.com/NicholasPCole/dodc) - A dialog-based shell script to quickly create a single DigitalOcean Droplet.
+- [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) - A script to upgrade your DigitalOcean Droplets to better plans with the same cost.
+
+## Clients
+
+- [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services.
+- [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
+- [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
+- [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
+- [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
+
+## DigitalOcean Community
+
+- [Building a Kubernetes cluster on DigitalOcean using Kubicorn](https://www.youtube.com/watch?v=XpxgSZ3dspE)
+- [Reddit community](https://www.reddit.com/r/digital_ocean/)
+- [`##digitalocean` on freenode](https://webchat.freenode.net/)
+- [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
+- [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
 ## ⚡️ Git Cheat Sheet
 * [Set Up](#setup)
@@ -2155,71 +2218,5 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 [<img alt="WajahatAnwar" src="https://avatars1.githubusercontent.com/u/18661312?v=4&s=117" width="117">](https://github.com/WajahatAnwar) |[<img alt="ybaruchel" src="https://avatars1.githubusercontent.com/u/20744388?v=4&s=117" width="117">](https://github.com/ybaruchel) |[<img alt="alljp" src="https://avatars2.githubusercontent.com/u/9149186?v=4&s=117" width="117">](https://github.com/alljp) |[<img alt="kuwali" src="https://avatars0.githubusercontent.com/u/9569997?v=4&s=117" width="117">](https://github.com/kuwali) |[<img alt="Endless7188" src="https://avatars3.githubusercontent.com/u/23556297?v=4&s=117" width="117">](https://github.com/Endless7188) |
 :---: |:---: |:---: |:---: |:---: |
 [WajahatAnwar](https://github.com/WajahatAnwar) |[ybaruchel](https://github.com/ybaruchel) |[alljp](https://github.com/alljp) |[kuwali](https://github.com/kuwali) |[Endless7188](https://github.com/Endless7188) |
-
-
-## Configuration management
-
-- [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
-- [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
-- [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
-- [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
-
-## DigitalOcean Developer documentation
-
-- [API](https://developers.digitalocean.com/documentation/v2/)
-- [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
-- [OAuth](https://developers.digitalocean.com/documentation/oauth/)
-- [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
-- [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
-
-## GitHub 
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
-- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
-- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-- [Git Tips](https://github.com/git-tips/tips#readme)
-
-## Open source projects
-
-- [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
-- [Netbox](https://github.com/digitalocean/netbox)
-- [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API.
-- [go-libvirt](https://github.com/digitalocean/go-libvirt)
-- [go-qemu](https://github.com/digitalocean/go-qemu)
-
-## Editors
-
-- [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
-- [Vim](https://github.com/mhinz/vim-galore#readme)
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
-
-## Community OSS projects
-
-- [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
-- [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
-- [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
-- [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
-- [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - Lita handler for managing DigitalOcean services.
-- [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with DigitalOcean Networking DNS as backend.
-- [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
-- [DigitalOcean Droplet creator](https://github.com/NicholasPCole/dodc) - A dialog-based shell script to quickly create a single DigitalOcean Droplet.
-- [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) - A script to upgrade your DigitalOcean Droplets to better plans with the same cost.
-
-## Clients
-
-- [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services.
-- [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
-- [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
-- [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
-- [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
-
-## DigitalOcean Community
-
-- [Building a Kubernetes cluster on DigitalOcean using Kubicorn](https://www.youtube.com/watch?v=XpxgSZ3dspE)
-- [Reddit community](https://www.reddit.com/r/digital_ocean/)
-- [`##digitalocean` on freenode](https://webchat.freenode.net/)
-- [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
-- [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
 
