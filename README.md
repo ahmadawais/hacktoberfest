@@ -2229,3 +2229,18 @@ $ git squash fixed-cursor-styling "Fixed cursor styling"
 $ git squash 95b7c52
 $ git squash HEAD~3
 ```
+
+### summary
+
+```
+$ git summary
+
+ project  : git
+ repo age : 10 years
+ active   : 11868 days
+ commits  : 40530
+ files    : 2825
+ authors  :
+ 15401	Junio C Hamano                  38.0%
+  1844	Jeff King                       4.5%
+```
