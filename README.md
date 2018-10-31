@@ -2680,3 +2680,16 @@ Which branch should be used for integration of the "next release"?
 Branch name for "next release" development: [master]
 Production and integration branches should differ.
 ```
+
+
+### flow feature
+
+```
+$ git flow feature
+$ git flow feature start awesome-feature
+$ git flow feature finish awesome-feature
+$ git flow feature delete awesome-feature
+
+$ git flow feature publish awesome-feature
+$ git flow feature pull remote awesome-feature
+```
