@@ -2693,3 +2693,12 @@ $ git flow feature delete awesome-feature
 $ git flow feature publish awesome-feature
 $ git flow feature pull remote awesome-feature
 ```
+
+### flow release
+
+```
+$ git flow release
+$ git flow release start awesome-release
+$ git flow release finish awesome-release
+$ git flow release delete awesome-release
+```
