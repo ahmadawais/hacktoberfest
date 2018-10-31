@@ -2391,3 +2391,11 @@ Merge made by the 'recursive' strategy.
  1 file changed, 1 insertion(+), 1 deletion(-)
 Deleted branch development (was 64b3563).
 ```
+
+### alias
+
+```
+$ git alias last "cat-file commit HEAD"
+$ git alias
+last = cat-file commit HEAD
+```
