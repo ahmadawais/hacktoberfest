@@ -2213,6 +2213,13 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
 - [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
 
-## Video tutorials
+## DigitalOcean Community
 
 - [Building a Kubernetes cluster on DigitalOcean using Kubicorn](https://www.youtube.com/watch?v=XpxgSZ3dspE)
+- [Reddit community](https://www.reddit.com/r/digital_ocean/)
+- [`##digitalocean` on freenode](https://webchat.freenode.net/)
+- [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
+- [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
+
+
