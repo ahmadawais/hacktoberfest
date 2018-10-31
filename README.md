@@ -2502,3 +2502,9 @@ M	readme.md
 ```
 $ git gh-pages
 ```
+
+### scp
+
+```
+$ git scp staging HEAD
+```
