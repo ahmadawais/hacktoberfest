@@ -2654,3 +2654,11 @@ From github.com:tj/git-extras
 Added dir 'git-merge-repo.E95m0gj'
 No local changes to save
 ```
+
+### psykorebase
+
+```
+$ git psykorebase master
+$ git psykorebase --continue
+$ git psykorebase master feature
+```
