@@ -2527,3 +2527,12 @@ Initialized empty Git repository in /GitHub/test/gulp/.git/
 ```
 $ git touch index.js
 ```
+
+### obliterate
+
+```
+$ git obliterate secrets.json
+Rewrite 2357a4334051a6d1733037406ab7538255030d0b (1/981)rm 'secrets.json'
+Rewrite b5f62b2746c23150917d346bd0c50c467f01eb03 (2/981)rm 'secrets.json'
+Rewrite 3cd94f3395c2701848f6ff626a0a4f883d8a8433 (3/981)rm 'secrets.json'
+```
