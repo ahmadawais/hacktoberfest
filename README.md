@@ -2600,3 +2600,9 @@ $ git lock config/database.yml
 $ git locked
 config/database.yml
 ```
+
+### unlock
+
+```
+$ git unlock config/database.yml
+```
