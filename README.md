@@ -2220,3 +2220,12 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 [WajahatAnwar](https://github.com/WajahatAnwar) |[ybaruchel](https://github.com/ybaruchel) |[alljp](https://github.com/alljp) |[kuwali](https://github.com/kuwali) |[Endless7188](https://github.com/Endless7188) |
 
 
+## [git-extras](https://github.com/tj/git-extras)
+
+### squash
+
+```
+$ git squash fixed-cursor-styling "Fixed cursor styling"
+$ git squash 95b7c52
+$ git squash HEAD~3
+```
