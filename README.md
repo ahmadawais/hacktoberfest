@@ -2636,3 +2636,21 @@ $ git root
 $ git delta
 README.md
 ```
+
+
+### merge-repo
+
+```
+$ git merge-repo git@github.com:tj/git-extras.git master .
+git fetch git@github.com:tj/git-extras.git master
+warning: no common commits
+remote: Counting objects: 3507, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 3507 (delta 1), reused 0 (delta 0), pack-reused 3502
+Receiving objects: 100% (3507/3507), 821.12 KiB | 286.00 KiB/s, done.
+Resolving deltas: 100% (1986/1986), done.
+From github.com:tj/git-extras
+ * branch            master     -> FETCH_HEAD
+Added dir 'git-merge-repo.E95m0gj'
+No local changes to save
+```
