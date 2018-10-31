@@ -2256,3 +2256,15 @@ $ git line-summary
  1040 Contra                    26.7%
   828 Sindre Sorhus             21.2%
 ```
+
+### effort
+
+```
+$ git effort
+
+  file                                          commits    active days
+
+  .gitattributes............................... 3          3
+  .gitignore................................... 265        226
+  .mailmap..................................... 47         40
+```
