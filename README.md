@@ -2613,3 +2613,12 @@ $ git unlock config/database.yml
 $ git reset-file README.md HEAD^
 Reset 'README.md' to HEAD^
 ```
+
+### pr
+
+```
+$ git pr 226
+From https://github.com/tj/git-extras
+ * [new ref]       refs/pulls/226/head -> pr/226
+Switched to branch 'pr/226'
+```
