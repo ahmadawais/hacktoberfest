@@ -2409,3 +2409,37 @@ $ git ignore build "*.o" "*.log"
 ... added '*.log'
 ```
 
+### info
+
+```
+$ git info
+
+    ## Remote URLs:
+
+    origin              git@github.com:sampleAuthor/git-extras.git (fetch)
+    origin              git@github.com:sampleAuthor/git-extras.git (push)
+
+    ## Remote Branches:
+
+    origin/HEAD -> origin/master
+    origin/myBranch
+
+    ## Local Branches:
+
+    myBranch
+    * master
+
+    ## Most Recent Commit:
+
+    commit e3952df2c172c6f3eb533d8d0b1a6c77250769a7
+    Author: Sample Author <sampleAuthor@gmail.com>
+
+    Added git-info command.
+
+    Type 'git log' for more commits, or 'git show <commit id>' for full commit details.
+
+    ## Configuration (.git/config):
+
+    color.diff=auto
+    color.status=auto
+```
