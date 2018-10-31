@@ -2277,3 +2277,24 @@ Contra <contra@maricopa.edu>
 Eric Schoffstall <contra@wearefractal.com>
 Sindre Sorhus <sindresorhus@gmail.com>
 ```
+
+### changelog
+
+```
+$ git changelog
+## 3.9.0
+
+- add babel support
+- add transpiler fallback support
+- add support for some renamed transpilers (livescript, etc)
+- add JSCS
+- update dependecies (liftoff, interpret)
+- documentation tweaks
+
+## 3.8.11
+
+- fix node 0.12/iojs problems
+- add node 0.12 and iojs to travis
+- update dependencies (liftoff, v8flags)
+- documentation tweaks
+```
