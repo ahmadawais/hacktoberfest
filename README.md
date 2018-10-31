@@ -2268,3 +2268,12 @@ $ git effort
   .gitignore................................... 265        226
   .mailmap..................................... 47         40
 ```
+
+### authors
+
+```
+$ git authors
+Contra <contra@maricopa.edu>
+Eric Schoffstall <contra@wearefractal.com>
+Sindre Sorhus <sindresorhus@gmail.com>
+```
