@@ -2357,3 +2357,12 @@ Removing .DS_Store
 Removing .editorconfig
 Removing .gitignore
 ```
+
+### guilt
+
+```
+$ git guilt `git log --until="3 weeks ago" --format="%H" -n 1` HEAD
+Paul Schreiber                +++++++++++++++++++++++++++++++++++++++++++++(349)
+spacewander                   +++++++++++++++++++++++++++++++++++++++++++++(113)
+Mark Eissler                  ++++++++++++++++++++++++++
+```
