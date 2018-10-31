@@ -2313,3 +2313,14 @@ TJ Holowaychuk - Fixed readme
 $ git count
 total 855
 ```
+
+### create-branch
+
+```
+$ git create-branch development
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/tj/git-extras.git
+ * [new branch]      HEAD -> development
+Branch development set up to track remote branch development from origin.
+Switched to a new branch 'development'
+```
