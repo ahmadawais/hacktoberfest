@@ -2325,13 +2325,8 @@ Branch development set up to track remote branch development from origin.
 Switched to a new branch 'development'
 ```
 
-### delete-branch
+### delete-submodule
 
 ```
-$ git delete-branch integration
-Deleted branch integration (was bfb8522).
-Deleted remote-tracking branch remote/integration (was bfb8522).
-To git@github.com:remote/gulp.git
- - [deleted]         integration
+$ git delete-submodule lib/foo
 ```
-
