@@ -2477,3 +2477,13 @@ visionmedia (18):
   Replaced several Array.prototype.slice.call() calls with Array.prototype.unshift.call()
   Moved help msg to node-repl
 ```
+
+### repl
+
+```
+$ git repl
+
+git> ls-files
+History.md
+Makefile
+```
