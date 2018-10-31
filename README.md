@@ -2729,3 +2729,18 @@ changelog ahead of upstream
 master    fast-forwarding...
 returning to 4.0
 ```
+
+## [hub](https://github.com/github/hub)
+
+### clone
+
+```
+$ git clone schacon/ticgit
+> git clone git://github.com/schacon/ticgit.git
+
+$ git clone -p schacon/ticgit
+> git clone git@github.com:schacon/ticgit.git
+
+$ git clone resque
+> git clone git@github.com/YOUR_USER/resque.git
+```
