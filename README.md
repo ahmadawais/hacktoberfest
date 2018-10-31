@@ -2770,3 +2770,19 @@ $ git fetch mislav,xoebus
 > git remote add xoebus ...
 > git fetch --multiple mislav xoebus
 ```
+
+### cherry-pick
+
+```
+$ git cherry-pick https://github.com/mislav/REPO/commit/SHA
+> git remote add -f --no-tags mislav git://github.com/mislav/REPO.git
+> git cherry-pick SHA
+
+$ git cherry-pick mislav@SHA
+> git remote add -f --no-tags mislav git://github.com/mislav/CURRENT_REPO.git
+> git cherry-pick SHA
+
+$ git cherry-pick mislav@SHA
+> git fetch mislav
+> git cherry-pick SHA
+```
