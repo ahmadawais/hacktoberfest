@@ -2448,3 +2448,22 @@ $ git info
 ```
 $ git fork LearnBoost/expect.js
 ```
+
+### release
+
+```
+$ git release 0.1.0
+... releasing 0.1.0
+On branch development
+Your branch is up-to-date with 'origin/development'.
+nothing to commit, working directory clean
+Total 0 (delta 0), reused 0 (delta 0)
+To https://github.com/tj/git-extras.git
+   9fde751..e62edfa  master -> master
+Counting objects: 1, done.
+Writing objects: 100% (1/1), 166 bytes | 0 bytes/s, done.
+Total 1 (delta 0), reused 0 (delta 0)
+To https://github.com/tj/git-extras.git
+ * [new tag]         0.1.0 -> 0.1.0
+... complete
+```
