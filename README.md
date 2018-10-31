@@ -2548,3 +2548,25 @@ Deleted remote-tracking branch origin/feature/dependencies (was f0fc4c7).
 To git@github.com:stevemao/gulp.git
  - [deleted]         feature/dependencies
 ```
+
+### local-commits
+
+```
+$ git local-commits
+commit 5f00a3c1bb71876ebdca059fac96b7185dea5467
+Merge: 7ad3ef9 841af4e
+Author: Blaine Bublitz <blaine@iceddev.com>
+Date:   Thu Aug 20 11:35:15 2015 -0700
+
+    Merge pull request #1211 from JimiHFord/patch-1
+
+    Update guidelines.md
+
+commit 841af4ee7aaf55b505354d0e86d7fb876d745e26
+Author: Jimi Ford <JimiHFord@users.noreply.github.com>
+Date:   Thu Aug 20 11:55:38 2015 -0400
+
+    Update guidelines.md
+
+    fixed typo
+```
