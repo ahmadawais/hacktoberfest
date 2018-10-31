@@ -2380,3 +2380,14 @@ Fast-forward
  create mode 100644 234
 Switched to branch 'development'
 ```
+
+### graft
+
+```
+$ git graft development
+Your branch is up-to-date with 'origin/master'.
+Merge made by the 'recursive' strategy.
+ package.json | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Deleted branch development (was 64b3563).
+```
