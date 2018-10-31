@@ -2339,3 +2339,12 @@ Deleted tag 'v0.1.1' (was 9fde751)
 To https://github.com/tj/git-extras.git
  - [deleted]         v0.1.1
 ```
+
+### delete-merged-branches
+
+```
+$ git delete-merged-branches
+Deleted feature/themes (was c029ab3).
+Deleted feature/live_preview (was a81b002).
+Deleted feature/dashboard (was 923befa).
+```
