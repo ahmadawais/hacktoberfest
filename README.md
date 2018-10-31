@@ -2570,3 +2570,11 @@ Date:   Thu Aug 20 11:55:38 2015 -0400
 
     fixed typo
 ```
+
+### archive-file
+
+```
+$ git archive-file
+Building archive on branch "master"
+Saved to "gulp.v3.9.0-36-g47cb6b0.zip" ( 60K)
+```
