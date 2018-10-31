@@ -2629,3 +2629,10 @@ Switched to branch 'pr/226'
 $ git root
 /GitHub/git
 ```
+
+### delta
+
+```
+$ git delta
+README.md
+```
