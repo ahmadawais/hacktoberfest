@@ -2399,3 +2399,13 @@ $ git alias last "cat-file commit HEAD"
 $ git alias
 last = cat-file commit HEAD
 ```
+
+### ignore
+
+```
+$ git ignore build "*.o" "*.log"
+... added 'build'
+... added '*.o'
+... added '*.log'
+```
+
