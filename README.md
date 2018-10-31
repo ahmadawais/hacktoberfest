@@ -2508,3 +2508,16 @@ $ git gh-pages
 ```
 $ git scp staging HEAD
 ```
+
+### setup
+
+```
+$ git setup
+Initialized empty Git repository in /GitHub/test/gulp/.git/
+[master (root-commit) 9469797] Initial commit
+ 69 files changed, 3900 insertions(+)
+ create mode 100644 .editorconfig
+ create mode 100644 .gitignore
+ create mode 100644 .jscsrc
+```
+
