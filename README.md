@@ -2467,3 +2467,13 @@ To https://github.com/tj/git-extras.git
  * [new tag]         0.1.0 -> 0.1.0
 ... complete
 ```
+
+### contrib
+
+```
+$ git contrib visionmedia
+visionmedia (18):
+  Export STATUS_CODES
+  Replaced several Array.prototype.slice.call() calls with Array.prototype.unshift.call()
+  Moved help msg to node-repl
+```
