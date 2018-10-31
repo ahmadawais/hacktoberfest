@@ -2211,3 +2211,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
 - [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
 - [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
+- [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
