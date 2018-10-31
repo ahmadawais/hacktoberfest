@@ -2578,3 +2578,10 @@ $ git archive-file
 Building archive on branch "master"
 Saved to "gulp.v3.9.0-36-g47cb6b0.zip" ( 60K)
 ```
+
+### missing
+
+```
+$ git missing master
+< d14b8f0 only on current checked out branch
+> 97ef387 only on master
