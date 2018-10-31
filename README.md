@@ -2496,3 +2496,9 @@ Unstaged changes after reset:
 M	package.json
 M	readme.md
 ```
+
+### gh-pages
+
+```
+$ git gh-pages
+```
