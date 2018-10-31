@@ -2786,3 +2786,108 @@ $ git cherry-pick mislav@SHA
 > git fetch mislav
 > git cherry-pick SHA
 ```
+
+### am
+
+```
+$ git am https://github.com/github/hub/pull/55
+[ downloads patch via API ]
+> git am /tmp/55.patch
+
+$ git am --ignore-whitespace https://github.com/davidbalbert/hub/commit/fdb9921
+[ downloads patch via API ]
+> git am --ignore-whitespace /tmp/fdb9921.patch
+```
+
+### apply
+
+```
+$ git apply https://gist.github.com/8da7fb575debd88c54cf
+[ downloads patch via API ]
+> git apply /tmp/gist-8da7fb575debd88c54cf.txt
+```
+
+### fork
+
+```
+$ git fork
+[ repo forked on GitHub ]
+> git remote add -f YOUR_USER git@github.com:YOUR_USER/CURRENT_REPO.git
+```
+
+### pull-request
+
+```
+$ git pull-request
+[ opens text editor to edit title & body for the request ]
+[ opened pull request on GitHub for "YOUR_USER:feature" ]
+```
+
+### checkout
+
+```
+$ git checkout https://github.com/github/hub/pull/73
+> git remote add -f --no-tags -t feature mislav git://github.com/mislav/hub.git
+> git checkout --track -B mislav-feature mislav/feature
+```
+
+### merge
+
+```
+$ git merge https://github.com/github/hub/pull/73
+> git fetch git://github.com/mislav/hub.git +refs/heads/feature:refs/remotes/mislav/feature
+> git merge mislav/feature --no-ff -m 'Merge pull request #73 from mislav/feature...'
+```
+
+### create
+
+```
+$ git create
+[ repo created on GitHub ]
+> git remote add origin git@github.com:YOUR_USER/CURRENT_REPO.git
+```
+
+### init
+
+```
+$ git init -g
+> git init
+> git remote add origin git@github.com:YOUR_USER/REPO.git
+```
+
+### push
+
+```
+$ git push origin,staging,qa bert_timeout
+> git push origin bert_timeout
+> git push staging bert_timeout
+> git push qa bert_timeout
+```
+
+### browse
+
+```
+$ git browse
+> open https://github.com/YOUR_USER/CURRENT_REPO
+```
+
+### compare
+
+```
+$ git compare refactor
+> open https://github.com/CURRENT_REPO/compare/refactor
+```
+
+### submodule
+
+```
+$ git submodule add wycats/bundler vendor/bundler
+> git submodule add git://github.com/wycats/bundler.git vendor/bundler
+```
+
+### ci-status
+
+```
+$ git ci-status
+success
+```
