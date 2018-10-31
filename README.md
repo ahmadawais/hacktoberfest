@@ -2662,3 +2662,21 @@ $ git psykorebase master
 $ git psykorebase --continue
 $ git psykorebase master feature
 ```
+
+## [gitflow (AVH Edition)](https://github.com/petervanderdoes/gitflow-avh)
+
+### flow init
+
+```
+$ git flow init
+
+Which branch should be used for bringing forth production releases?
+   - changelog
+   - master
+Branch name for production releases: [master]
+
+Which branch should be used for integration of the "next release"?
+   - changelog
+Branch name for "next release" development: [master]
+Production and integration branches should differ.
+```
