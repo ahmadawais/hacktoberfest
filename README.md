@@ -2712,3 +2712,9 @@ $ git flow hotfix start awesome-release
 $ git flow hotfix finish awesome-release
 $ git flow hotfix delete awesome-release
 ```
+
+### flow support
+
+```
+$ git flow support
+```
