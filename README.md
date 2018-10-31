@@ -2348,3 +2348,12 @@ Deleted feature/themes (was c029ab3).
 Deleted feature/live_preview (was a81b002).
 Deleted feature/dashboard (was 923befa).
 ```
+
+### fresh-branch
+
+```
+$ git fresh-branch docs
+Removing .DS_Store
+Removing .editorconfig
+Removing .gitignore
+```
