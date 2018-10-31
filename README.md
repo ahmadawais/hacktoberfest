@@ -2298,3 +2298,11 @@ $ git changelog
 - update dependencies (liftoff, v8flags)
 - documentation tweaks
 ```
+
+### commits-since
+
+```
+$ git commits-since yesterday
+... changes since yesterday
+TJ Holowaychuk - Fixed readme
+```
