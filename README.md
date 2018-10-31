@@ -2521,3 +2521,9 @@ Initialized empty Git repository in /GitHub/test/gulp/.git/
  create mode 100644 .jscsrc
 ```
 
+
+### touch
+
+```
+$ git touch index.js
+```
