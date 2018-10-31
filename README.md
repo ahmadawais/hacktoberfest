@@ -2585,3 +2585,10 @@ Saved to "gulp.v3.9.0-36-g47cb6b0.zip" ( 60K)
 $ git missing master
 < d14b8f0 only on current checked out branch
 > 97ef387 only on master
+```
+
+### lock
+
+```
+$ git lock config/database.yml
+```
