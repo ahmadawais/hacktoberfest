@@ -2606,3 +2606,10 @@ config/database.yml
 ```
 $ git unlock config/database.yml
 ```
+
+### reset-file
+
+```
+$ git reset-file README.md HEAD^
+Reset 'README.md' to HEAD^
+```
