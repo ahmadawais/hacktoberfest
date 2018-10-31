@@ -2570,3 +2570,11 @@ Date:   Thu Aug 20 11:55:38 2015 -0400
 
     fixed typo
 ```
+
+### missing
+
+```
+$ git missing master
+< d14b8f0 only on current checked out branch
+> 97ef387 only on master
+```
