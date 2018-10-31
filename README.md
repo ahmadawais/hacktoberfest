@@ -2592,3 +2592,11 @@ $ git missing master
 ```
 $ git lock config/database.yml
 ```
+
+
+### locked
+
+```
+$ git locked
+config/database.yml
+```
