@@ -2366,3 +2366,17 @@ Paul Schreiber                +++++++++++++++++++++++++++++++++++++++++++++(349)
 spacewander                   +++++++++++++++++++++++++++++++++++++++++++++(113)
 Mark Eissler                  ++++++++++++++++++++++++++
 ```
+
+### merge-into
+
+```
+$ git merge-into master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Updating 9fde751..e62edfa
+Fast-forward
+ 234 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 234
+Switched to branch 'development'
+```
