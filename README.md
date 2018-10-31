@@ -2212,3 +2212,7 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 - [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
 - [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
 - [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
+
+## Video tutorials
+
+- [Building a Kubernetes cluster on DigitalOcean using Kubicorn](https://www.youtube.com/watch?v=XpxgSZ3dspE)
