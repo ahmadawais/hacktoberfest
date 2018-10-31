@@ -2330,3 +2330,12 @@ Switched to a new branch 'development'
 ```
 $ git delete-submodule lib/foo
 ```
+
+### delete-tag
+
+```
+$ git delete-tag v0.1.1
+Deleted tag 'v0.1.1' (was 9fde751)
+To https://github.com/tj/git-extras.git
+ - [deleted]         v0.1.1
+```
