@@ -2208,3 +2208,4 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 ## Clients
 
 - [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services.
+- [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
