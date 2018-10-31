@@ -2244,3 +2244,15 @@ $ git summary
  15401	Junio C Hamano                  38.0%
   1844	Jeff King                       4.5%
 ```
+
+### line-summary
+
+```
+$ git line-summary
+
+ project  : gulp
+ lines    : 3900
+ authors  :
+ 1040 Contra                    26.7%
+  828 Sindre Sorhus             21.2%
+```
