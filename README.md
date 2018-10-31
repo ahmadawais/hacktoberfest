@@ -2487,3 +2487,12 @@ git> ls-files
 History.md
 Makefile
 ```
+
+### undo
+
+```
+$ git undo
+Unstaged changes after reset:
+M	package.json
+M	readme.md
+```
