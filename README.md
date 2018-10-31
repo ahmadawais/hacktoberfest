@@ -2306,3 +2306,10 @@ $ git commits-since yesterday
 ... changes since yesterday
 TJ Holowaychuk - Fixed readme
 ```
+
+### count
+
+```
+$ git count
+total 855
+```
