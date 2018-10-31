@@ -2622,3 +2622,10 @@ From https://github.com/tj/git-extras
  * [new ref]       refs/pulls/226/head -> pr/226
 Switched to branch 'pr/226'
 ```
+
+### root
+
+```
+$ git root
+/GitHub/git
+```
