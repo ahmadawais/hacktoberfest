@@ -2818,6 +2818,18 @@ git push -u origin <branch_name>
   * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
+* [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
+* [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
+* [Hack](https://github.com/source-foundry/Hack)
+* [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
+* [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
+* [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+* [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Mononoki](http://madmalik.github.io/mononoki/)
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting.
 
 
 ## ⚡️ How to Contribute Here?
