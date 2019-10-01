@@ -637,6 +637,13 @@ $ git tag <tag-name>
 ```
 $ git tag -a <tag-name>
 ```
+
+
+##### List tags:
+```
+$ git tag -l
+```
+
 <hr>
 
 ## Update & Publish
