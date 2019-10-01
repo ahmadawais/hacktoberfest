@@ -158,6 +158,7 @@ The awesomeness is currently organized into just a few different buckets:
 * [Resources for Those Already Familiar With GitHub](#resources-for-those-already-familiar-with-github)
 * [Tips, Tricks, Tools, and Add-Ons for GitHub Power Users](#tips-tricks-tools-and-add-ons-for-github-power-users)
 * [Novel Uses of GitHub](#novel-uses-of-github)
+* [Hacktoberfest Post for 2019](https://hacktoberfest.digitalocean.com/)
 
 ---
 
