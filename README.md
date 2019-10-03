@@ -273,6 +273,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
+- [Atom Power User](https://atompoweruser.com/)
 
 ## Community OSS projects
 
