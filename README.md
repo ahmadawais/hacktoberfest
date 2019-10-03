@@ -70,7 +70,7 @@ Listing a few git resources here for everyone.
 
 - [GitHub Desktop](https://desktop.github.com/) — Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
 - [SourceTree](https://www.sourcetreeapp.com/) — free (in-beer) GUI client. Windows and Mac only
-- [GitKraken](https://www.gitkraken.com/) — across Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and the paid Pro version is available.
+- [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and the paid Pro version is available.
 - [Tower](https://www.git-tower.com/) — a popular non-free Git GUI client. Mac and Windows
 - [SmartGit](https://www.syntevo.com/smartgit/) — a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
 - [RabbitVCS](http://rabbitvcs.org/) — TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
@@ -2551,8 +2551,8 @@ git checkout master && git branch --no-merged
 ## Find guilty with binary search
 ```sh
 git bisect start                    # Search start
-git bisect bad                      # Setpoint to bad commit
-git bisect good v2.6.13-rc2         # Setpoint to good commit|tag
+git bisect bad                      # Set point to bad commit
+git bisect good v2.6.13-rc2         # Set point to good commit|tag
 git bisect bad                      # Say current state is bad
 git bisect good                     # Say current state is good
 git bisect reset                    # Finish search
