@@ -16,7 +16,7 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 - Five quality pull requests must be submitted to public GitHub repositories.
 - You can sign up anytime between October 1 and October 31.
 
-## 💙 Git Resources:
+## :octocat: Git Resources:
 
 Listing a few git resources here for everyone.
 
