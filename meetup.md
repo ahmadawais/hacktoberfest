@@ -4,7 +4,6 @@ We had an awesome Hacktoberfest Meetup.
 - [Announcement](https://www.facebook.com/photo.php?fbid=10211920139733713&set=a.1083148153769.2013399.1078294064&type=3&theater)
 - https://www.meetup.com/preview/DigitalOceanLahore/events/244307272
 - https://www.meetup.com/preview/WordPress-Lahore/events/244307271
-- 
 
 Following is the feedback from different attendees:
 
@@ -35,16 +34,16 @@ Following is the feedback from different attendees:
  ### About  Hacktoberfest and Sponsors
  Benefits of participating in Hactoberfest, procedure to be a part of the #Hacktoberfest and efforts of the Sponsors like #GitHub and #DigitalOcean to bring the developers and  the open source community together, were described by Mr. Ahmad Awais in encouraging way.
  ### Question Answers
- As soon as the time was about to end, question Answer session started in which Mr. Ahmad Awais answered the queries of the participants.
+ As soon as the time was about to end, a question-answer session was started in which Mr. Ahmad Awais answered the queries of the participants.
  ### Refreshments
  Refreshments were given to all partipants which included :pizza: Pizza, Bottle ( and don't know the name but was tasty :sweat_smile: ).
  ### Photo Session
- At the end of the meetup there was photo session of all participants with Mr. Ahmad Awais.
+ At the end of the meetup, there was photo session of all participants with Mr. Ahmad Awais.
  
 ## Feedback
 
-* In my opinion this was a good step to conduct such interactive meetups to bring the like minded people at one place. It helps to share experiences and keeps up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an Advanced country. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – [Muhammad Adnan](github.com/AdnanMuhib)
-* This event was realy informative motivational. I inspired a lot by the speaker behaviour and his sense of humour. I think this kind of should properly arranged on monthly basis this will a greate contribution from your side in national building. – Muhammad Ramzan
-* It was my first time to attend such kind of event, but it encouraged me to come up as open source contributer. The talk of **MR Ahmad Awais** was really impressive, communicative. The environment of the session was kinda Q/A session and it really helped a lot. – [Muhammad Umair](github.com/mrumair)
-* It was a good pushup for me to start working hard and start contributing to the open source. I'll try my level best to open source my all work. And try to motivate my other fellows to the same as well. – @AliRaza1844
+* In my opinion, this was a good step to conduct such interactive meetups to bring the like-minded people together at one place. It helps to share experiences and keeps us up to date with the modern technology. We can learn and share knowledge to compete with developed countries and make our country an advanced one. I think such meetups should be conducted twice or thrice in a month for different fields of interest. – [Muhammad Adnan](github.com/AdnanMuhib)
+* This event was really informative motivational. I was inspired a lot by the speaker's behaviour and his sense of humour. I think this kind of meetup should be properly arranged on monthly basis as this will be a great contribution from your side in the national building. – Muhammad Ramzan
+* It was my first time attending such kind of an event, but it encouraged me to come up as an open source contributer. The talk of **MR Ahmad Awais** was really impressive and communicative. The environment of the session was kind of a Q/A session and it really helped a lot. – [Muhammad Umair](github.com/mrumair)
+* It was a good push-up for me to start working hard and start contributing to the open source. I'll try my level best to open source my all work. And try to motivate my other fellows to the same as well. – @AliRaza1844
 * Just like the previous meetup, this one too inspired me to start something new which this time was to contribute to open source.Another positive aspect I took away from this was to open source any of your work, for that way it carries great potential and helps in giving back and improving your skills. - Sudais Asif(github.com/sudaisasif)
