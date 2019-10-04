@@ -27,6 +27,7 @@ Listing a few git resources here for everyone.
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
 - [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
 - [The (Written) Unwritten Guide to Pull Requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests) by [Blake Riosa](https://www.atlassian.com/blog/author/briosa)
+- Wonderful Linux.conf.au 2013 presentation introducing Git via Tinkertoys: [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
