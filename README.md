@@ -273,6 +273,11 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
+- [Brackets](http://brackets.io)
+- [Atom](https://atom.io)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [EditPlus](https://www.editplus.com)
+- [Nano](https://www.nano-editor.org/download.php)
 
 ## Community OSS projects
 
