@@ -227,6 +227,8 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Noteit](https://github.com/Krukov/noteit) — Manage your notes at CLI with GitHub Gists.
 - [Zappr](https://github.com/zalando/zappr) — A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
 - [Migrating to Git LFS](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) — Easily manage huge files in your Git projects, useful for Data Science projects
+- [Continuous Integration Tools](https://medium.com/hackernoon/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5) — Frequent Integration of Code into Shared Repository.
+
 
 
 ### Novel Uses of GitHub
