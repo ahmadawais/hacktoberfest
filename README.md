@@ -91,6 +91,7 @@ Listing a few git resources here for everyone.
 - [Gitless](http://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
 - [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+- [Fork](https://git-fork.com) - A fast and friendly git client for Mac and Windows
 
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
