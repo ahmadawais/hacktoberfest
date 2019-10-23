@@ -99,6 +99,7 @@ Listing a few git resources here for everyone.
 - [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) — solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
 - [git-annex](https://git-annex.branchable.com/) — allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - A Visual Studio code extension which helps you visualize code authorship at a glance via Git blame annotations and code lens. Allows you to seamlessly explore Git repositories and gain valuable insights via powerful comparison commands.
+- [Saving Commit Templates using Git Extensions](https://dev.to/pandiyancool/saving-commit-templates-using-git-extensions)
 
 ## ⚡️ Git Repository Hosting
 *People have plenty of options to host their source code*
