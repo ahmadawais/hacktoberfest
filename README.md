@@ -27,6 +27,7 @@ Listing a few git resources here for everyone.
 - Novice 🤓 to Ninja ⚔, [a complete guide on becoming a Git Guru](https://www.atlassian.com/git/tutorials)
 - [Vogella Git Tutorial](http://www.vogella.com/tutorials/Git/article.html)
 - [The (Written) Unwritten Guide to Pull Requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests) by [Blake Riosa](https://www.atlassian.com/blog/author/briosa)
+- [15 Git Commands You May Not Know](https://dev.to/zaiste/15-git-commands-you-may-not-know-4a8j)
 
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
