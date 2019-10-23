@@ -138,6 +138,7 @@ Listing a few git resources here for everyone.
 - [GitHub flow](https://scottchacon.com/2011/08/31/github-flow.html) — a simple branching model with a single master
 - [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 - [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
+- [Git Workflow: Do you commit to master on your solo projects?](https://dev.to/daveskull81/git-workflow-do-you-commit-to-master-on-your-solo-projects-hi4)
 
 ## ⚡️ Git Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
