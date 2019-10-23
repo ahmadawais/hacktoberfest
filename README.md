@@ -147,6 +147,7 @@ Listing a few git resources here for everyone.
 - [git-hooks](https://github.com/icefox/git-hooks/) — tool to manage project, user, and global Git hooks
 - [quickhook](https://github.com/dirk/quickhook/) — a fast, Unix'y, opinionated Git hook runner
 - [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
+- [Two Ways to Share Git Hooks with Your Team](https://www.viget.com/articles/two-ways-to-share-git-hooks-with-your-team/)
 
 ## :octocat: GitHub Resources
 
