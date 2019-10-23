@@ -128,6 +128,7 @@ Listing a few git resources here for everyone.
 - [Apache Allura](https://allura.apache.org/) — an open source implementation of project hosting platform
 - [Phabricator](https://www.phacility.com/) — an integrated set of powerful tools to help companies build higher quality software
 - [RhodeCode CE/EE](https://rhodecode.com/) — a platform delivering enterprise source code management
+- [12 Git Hosting Services Compared](https://www.git-tower.com/blog/git-hosting-services-compared/)
 
 ## ⚡️ Git Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
