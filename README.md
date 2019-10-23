@@ -182,6 +182,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 - [GitHub Government Community](https://github.com/government/welcome) — Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) — Your course assignments on GitHub.
 - [Fun with GitHub](https://blog.prototypr.io/fun-with-git-8385da9c748c) — A fun overview of GitHub.
+- [Commit to Git in Visual Studio 2019](https://dev.to/yysun/commit-to-git-in-visual-studio-2019-1lcj)
 
 
 ### Resources for Those Already Familiar With GitHub
