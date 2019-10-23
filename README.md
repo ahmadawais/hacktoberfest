@@ -54,6 +54,7 @@ Listing a few git resources here for everyone.
 - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123) — The essentials of using the version control system Git
 - [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
 - [How to Use Git and GitHub](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india) — Effective use of version control
+- [Confused by git? Here's a git crash course to fix that 🎉](https://dev.to/chrisachard/confused-by-git-here-s-a-git-crash-course-to-fix-that-4cmi)
 
 ### ⚡️ Git for WordPress:
 
