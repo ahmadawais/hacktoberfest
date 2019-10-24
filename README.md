@@ -1,6 +1,6 @@
 # 🙌 Hacktoberfest
 
-This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
+This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first-time beginners just like you. So, jump right in! 🎯
 
 [Meetup Event](https://www.meetup.com/DigitalOceanLahore/events/244307272/) sponsorship [DigitalOcean →](https://www.digitalocean.com/)
 
@@ -31,20 +31,20 @@ Listing a few git resources here for everyone.
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
 
-- [Try Git](https://try.github.io/) — learn Git in 15 minutes with pseudo-terminal interface
+- [Try Git](https://try.github.io/) — learn Git in 15 minutes with the pseudo-terminal interface
 - [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request) — learn to create a GitHub Pull Request
 - [GitHub Learning Paths](https://services.github.com/on-demand/resources/learning-path/) — learn about Git, Setup, GitHub, and a lot more
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) — comprehensive tutorial on Git
-- [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) — all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
-- [Learn Version Control with Git](https://www.git-tower.com/learn/) — freemium ebook from fournova Software (makers for Tower), associated with paid video course
+- [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) — all-important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
+- [Learn Version Control with Git](https://www.git-tower.com/learn/) — freemium ebook from four nova Software (makers for Tower), associated with the paid video course
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - a tutorial on version control with git
 - [Pro Git](https://git-scm.com/book/) — free Git book (CC BY-NC-SA 3.0)
 - [The Git Community Book](https://schacon.github.io/gitbook/) — book built by dozens of people in the Git community
 - [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) — a short O'Reilly book on Git
 - [Git Real: Code School](https://www.codeschool.com/courses/git-real/) — paid training course from Code School
-- [Git Branching](https://learngitbranching.js.org/) — visual way to learn git branching
+- [Git Branching](https://learngitbranching.js.org/) — a visual way to learn git branching
 - [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) — tutorial-based book by Manning Publications
-- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) — short book about Git
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) — a short book about Git
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) — great series of articles about Git
 - [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
 - [Learn Git - Codecademy](https://www.codecademy.com/learn/learn-git) — This course will show you basic workflow and core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other developers
@@ -70,7 +70,7 @@ Listing a few git resources here for everyone.
 
 - [GitHub Desktop](https://desktop.github.com/) — Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
 - [SourceTree](https://www.sourcetreeapp.com/) — free (in-beer) GUI client. Windows and Mac only
-- [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+- [GitKraken](https://www.gitkraken.com/) — across Git client for Windows, Mac & Linux. Electron-based. Free for non-commercial use and the paid Pro version is available.
 - [Tower](https://www.git-tower.com/) — a popular non-free Git GUI client. Mac and Windows
 - [SmartGit](https://www.syntevo.com/smartgit/) — a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
 - [RabbitVCS](http://rabbitvcs.org/) — TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
@@ -80,7 +80,7 @@ Listing a few git resources here for everyone.
 - [Ungit](https://github.com/FredrikNoren/ungit) — The easiest way to use git. On any platform. Anywhere.
 - [MyRepos](https://myrepos.branchable.com/) — a tool to manage multiple version control repositories
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) — lists more than 20 git addons including all available commands
-- [GitIgnore Collection](https://github.com/github/gitignore) — collection of gitignore files for various programming language
+- [GitIgnore Collection](https://github.com/github/gitignore) — a collection of gitignore files for various programming language
 - [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands
 - [git-extra-commands](https://github.com/unixorn/git-extra-commands) — Another collection of useful git commands
 - [GitUp](http://gitup.co) — a clean, minimal Git client. Mac only.
@@ -95,10 +95,10 @@ Listing a few git resources here for everyone.
 ## ⚡️ Git Extensions
 *Git is designed for source control management. Extensions help people to extend the idea and push version control to everywhere*
 
-- [Git Large File Storage](https://git-lfs.github.com/) — practical solution for versioning large files. supported by GitHub
+- [Git Large File Storage](https://git-lfs.github.com/) — a practical solution for versioning large files. supported by GitHub
 - [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) — solution for managing very large Git repository while maintaining speed and efficiency of most operations, in development by Microsoft.
-- [git-annex](https://git-annex.branchable.com/) — allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annex assistant](https://git-annex.branchable.com/assistant/)
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - A Visual Studio code extension which helps you visualize code authorship at a glance via Git blame annotations and code lens. Allows you to seamlessly explore Git repositories and gain valuable insights via powerful comparison commands.
+- [git-annexe](https://git-annex.branchable.com/) — allow managing massive binaries among machines, as if operating a standard git repository. Possible to create a synchronized folder with [git-annexe assistant](https://git-annex.branchable.com/assistant/)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - A Visual Studio Code extension which helps you visualize code authorship at a glance via Git blame annotations and code lens. Allows you to seamlessly explore Git repositories and gain valuable insights via powerful comparison commands.
 
 ## ⚡️ Git Repository Hosting
 *People have plenty of options to host their source code*
@@ -117,20 +117,20 @@ Listing a few git resources here for everyone.
 *Or you can host the code yourselves*
 
 - [Gitolite](http://gitolite.com/gitolite/) — a simple with fine-grained access control
-- [GitHub Enterprise](https://enterprise.github.com/) — self-hosted solution provided from GitHub
-- [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) — self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
+- [GitHub Enterprise](https://enterprise.github.com/) — a self-hosted solution provided from GitHub
+- [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) — self-hosted reform Atlassian. Good integration with JIRA and other Atlassian products
 - [GitLab CE/EE](https://gitlab.com/) — a popular open-source Git (CE) with paid support option (EE).
-- [Upsource](https://www.jetbrains.com/upsource) — recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
+- [Upsource](https://www.jetbrains.com/upsource) — recent offer from Jetbrains, a famous developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 - [GitBucket](https://github.com/takezoe/gitbucket/) — a GitHub clone powered by Scala.
 - [Gogs](https://gogs.io/) — a self-hosted Git Service written in Go.
 - [Gitea](https://gitea.io/) - a community managed fork of Gogs
 - [GitBlit](http://gitblit.com/) — Pure Java Stack for managing, view, and serving Git repositories.
-- [Apache Allura](https://allura.apache.org/) — an open source implementation of project hosting platform
+- [Apache Allura](https://allura.apache.org/) — an open-source implementation of project hosting platform
 - [Phabricator](https://www.phacility.com/) — an integrated set of powerful tools to help companies build higher quality software
 - [RhodeCode CE/EE](https://rhodecode.com/) — a platform delivering enterprise source code management
 
 ## ⚡️ Git Workflow
-*Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
+*Inexpensive branching allows people to adopt workflows other than the classic centralized workflow*
 
 - [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 - [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -142,9 +142,9 @@ Listing a few git resources here for everyone.
 ## ⚡️ Git Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
-- [pre-commit](https://pre-commit.com/) — a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
-- [Overcommit](https://github.com/brigade/overcommit/) — a extendable Git hook manager written with Ruby.
-- [git-hooks](https://github.com/icefox/git-hooks/) — tool to manage project, user, and global Git hooks
+- [pre-commit](https://pre-commit.com/) — a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming languages.
+- [Overcommit](https://github.com/brigade/overcommit/) — an extendable Git hook manager written with Ruby.
+- [git-hooks](https://github.com/icefox/git-hooks/) — tool to manage the project, user, and global Git hooks
 - [quickhook](https://github.com/dirk/quickhook/) — a fast, Unix'y, opinionated Git hook runner
 - [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
 
@@ -163,11 +163,11 @@ The awesomeness is currently organized into just a few different buckets:
 ---
 
 ### Infomation for People Who Are New to GitHub
-- [Code School's Try Git](https://try.github.io/levels/1/challenges/1) — If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
-- [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
-- [On-Demand GitHub Training](https://services.github.com/on-demand/) — Self-paced, interactive projects created and maintained by GitHub's own Training team.
+- [Code School's Try Git](https://try.github.io/levels/1/challenges/1) — If you'd like to better understand Git, one of the technologies that make GitHub possible, this is a great place to start. No GitHub account required.
+- [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopped for learning Git and GitHub.
+- [On-Demand GitHub Training](https://services.github.com/on-demand/) — Self-paced, interactive projects created and maintained by GitHub's Training team.
 - [Bingo Board](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
-- [Writing on GitHub](https://help.github.com/articles/writing-on-github/) — GitHub's own guide to using GitHub for more than just software development.
+- [Writing on GitHub](https://help.github.com/articles/writing-on-github/) — GitHub's guide to using GitHub for more than just software development.
 - [GitHubGuides](https://www.youtube.com/user/GitHubGuides) — GitHub Training & Guides on YouTube.
 - [GitHub Pages](https://pages.github.com/) — Websites for you and your projects.
 Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
@@ -176,9 +176,9 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [iPython/Jupyter](https://github.com/blog/1995-github-jupyter-notebooks-3) — Yes, that's right, GitHub also renders `ipynb` files right in the browser. [The possibilities are endless](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
   - [PDF](https://github.com/blog/1974-pdf-viewing) — View PDFs right in your browser.
   - [STL files](https://github.com/blog/1465-stl-file-viewing) — It's pretty amazing, 3D right in the browser.
-  - [CSV](https://github.com/blog/1601-see-your-csvs) — Data journalists and civic data nerds rejoice, comma separated values right in the browser!
-  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) — Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
-  - [PSD](https://github.com/blog/1845-psd-viewing-diffing) — That's right, same idea as SVG, but for Photoshop files!
+  - [CSV](https://github.com/blog/1601-see-your-csvs) — Data journalists and civic data nerds rejoice, comma-separated values right in the browser!
+  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) — Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
+  - [PSD](https://github.com/blog/1845-psd-viewing-diffing) — That's right, the same idea as SVG, but for Photoshop files!
 - [GitHub Government Community](https://github.com/government/welcome) — Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) — Your course assignments on GitHub.
 - [Fun with GitHub](https://blog.prototypr.io/fun-with-git-8385da9c748c) — A fun overview of GitHub.
@@ -191,29 +191,29 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Desktop](https://desktop.github.com/) — Simple collaboration from your desktop.
 - [Atom](https://github.com/blog/2031-announcing-atom-1-0) — Did you know that GitHub makes an editor? Use it to write, code, and more.
-- [Electron](https://electronjs.org/) — Build cross platform desktop apps with web technologies
-- [GitHub Buttons](https://ghbtns.com/) — Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
+- [Electron](https://electronjs.org/) — Build cross-platform desktop apps with web technologies
+- [GitHub Buttons](https://ghbtns.com/) — Showcase your GitHub repo's success with hot linkable GitHub star, fork, or follow buttons.
 - [Resume](https://resume.github.io/) — Resumes generated using GitHub.
 - [Speaker Deck](https://speakerdeck.com/) — Share Presentations without the Mess, by GitHub.
 - [Blocks](https://bl.ocks.org/) — This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](https://bost.ocks.org/mike/block/))
 - [Block Builder](https://blockbuilder.org/) — Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) — Guidelines for creating template files for a GitHub project..
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) — Guidelines for creating template files for a GitHub project.
 
 ### Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
-- [GitHub Integrations Directory](https://github.com/integrations) — Use your favorite tools with GitHub.
+- [GitHub Integrations Directory](https://github.com/integrations) — Use your favourite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) — Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) — Well, the link kinda' says it all.
 - [Gitter](https://gitter.im/) — Chat, for GitHub. Unlimited public rooms and one-to-one chats, free.
 - [ZenHub](https://www.zenhub.io/) — Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) — Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
-- [Overv.io](https://overv.io/) — Agile project management for teams who love GitHub. Kanban baords and more.
+- [Overv.io](https://overv.io/) — Agile project management for teams who love GitHub. Kanban boards and more.
 - [Penflip](https://www.penflip.com/) — Collaborative writing and version control, powered by GitLab (similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) — A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](https://prose.io/#about) — Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub.
 - [Redliner](https://github.com/benbalter/redliner) — A tool for facilitating the redlining of documents with the GitHub uninitiated.
 - [Gatekeeper](https://github.com/prose/gatekeeper) — Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) — Microservice to enable GitHub login for multiple server-less applications.
-- [Hub](https://github.com/github/hub) — A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+- [Hub](https://github.com/github/hub) — A command-line tool that wraps git to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo](https://github.com/jlevy/ghizmo) — A command line for GitHub, allowing access to all APIs.
 - [cli-github](https://github.com/harshasrinivas/cli-github) — GitHub made pretty, within the command line.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) — A sophisticated dark theme for GitHub.
@@ -232,7 +232,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 ### Novel Uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) — Mozfest 2015 Program on GitHub.
-- [Open Source Society University](https://github.com/open-source-society/computer-science) — Path to a free self-taught education in Computer Science.
+- [Open Source Society University](https://github.com/open-source-society/computer-science) — Path to free self-taught education in Computer Science.
 - [Clef's Handbook](https://github.com/clef/handbook) — An employee handbook built for inclusion.
 - [The United States Code](https://github.com/divegeek/uscode) — The complete United States Code.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) — French Civil Code on GitHub.
@@ -349,9 +349,9 @@ $ git config --global user.name "[firstname lastname]"
 $ git config --global user.email "[valid-email]"
 ```
 
-##### Set automatic command line coloring for Git for easy reviewing:
+##### Set automatic command line colouring for Git for easy reviewing:
 ```
-$ git config --global color.ui auto
+$ git config --global colour.UI auto
 ```
 
 ##### Set global editor for commit:
@@ -442,7 +442,7 @@ $ git commit
 $ git commit -m 'message here'
 ```
 
-##### Commit skipping the staging area and adding message:
+##### Commit skipping the staging area and adding a message:
 ```
 $ git commit -am 'message here'
 ```
@@ -483,12 +483,12 @@ $ git checkout branch2
 $ git stash pop
 ```
 
-##### Restore stashed changes back to current branch:
+##### Restore stashed changes to current branch:
 ```shell
 $ git stash apply
 ```
 
-#### Restore particular stash back to current branch:
+#### Restore particular stash to the current branch:
 - *{stash_number}* can be obtained from `git stash list`
 
 ```shell
@@ -525,7 +525,7 @@ $ git log
 
 ##### Show all the commits(it'll show just the commit hash and the commit message):
 ```
-$ git log --oneline
+$ git log --online
 ```
 
 ##### Show all commits of a specific user:
@@ -666,7 +666,7 @@ $ git fetch <remote>
 $ git remote pull <remote> <url>
 ```
 
-##### Get all changes from HEAD to local repository:
+##### Get all changes from HEAD to the local repository:
 ```
 $ git pull origin master
 ```
@@ -829,7 +829,7 @@ Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 <hr>
 
 ### Setup
-###### You need a working git installation as prerequisite. Git flow works on OSX, Linux and Windows.
+###### You need a working git installation as a prerequisite. Git flow works on OSX, Linux and Windows.
 
 ##### OSX Homebrew:
 ```
@@ -854,7 +854,7 @@ $ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervan
 <hr>
 
 ### Getting Started
-###### Git flow needs to be initialized in order to customize your project setup. Start using git-flow by initializing it inside an existing git repository:
+###### Git flow needs to be initialized to customize your project setup. Start using git-flow by initializing it inside an existing git repository:
 ##### Initialize:
 ###### You'll have to answer a few questions regarding the naming conventions for your branches. It's recommended to use the default values.
 ```shell
@@ -921,7 +921,7 @@ git flow feature track MYFEATURE
 ###### Support preparation of a new production release. Allow for minor bug fixes and preparing meta-data for a release
 
 ##### Start a release:
-###### To start a release, use the git flow release command. It creates a release branch created from the 'develop' branch. You can optionally supply a [BASE] commit sha-1 hash to start the release from. The commit must be on the 'develop' branch.
+###### To start a release, use the git-flow release command. It creates a release branch created from the 'develop' branch. You can optionally supply a [BASE] commit Sha-1 hash to start the release from. The commit must be on the 'develop' branch.
 ```
 git flow release start RELEASE [BASE]
 ```
@@ -945,17 +945,17 @@ git flow release finish RELEASE
 <hr>
 
 ### Hotfixes
-###### Hotfixes arise from the necessity to act immediately upon an undesired state of a live production version. May be branched off from the corresponding tag on the master branch that marks the production version.
+###### Hotfixes arise from the necessity to act immediately upon an undesired state of a live production version. Maybe branched off from the corresponding tag on the master branch that marks the production version.
 
 ##### Git flow hotfix start:
-###### Like the other git flow commands, a hotfix is started with
+###### Like the other git-flow commands, a hotfix is started with
 ```
 $ git flow hotfix start VERSION [BASENAME]
 ```
 ###### The version argument hereby marks the new hotfix release name. Optionally you can specify a basename to start from.
 
 ##### Finish a hotfix:
-###### By finishing a hotfix it gets merged back into develop and master. Additionally the master merge is tagged with the hotfix version
+###### By finishing a hotfix it gets merged back into develop and master. Additionally, the master merge is tagged with the hotfix version
 ```
 git flow hotfix finish VERSION
 ```
@@ -997,8 +997,8 @@ $ git summary
  commits  : 40530
  files    : 2825
  authors  :
- 15401	Junio C Hamano                  38.0%
-  1844	Jeff King                       4.5%
+ 15401    Junio C Hamano                  38.0%
+  1844    Jeff King                       4.5%
 ```
 
 ### line-summary
@@ -1042,15 +1042,15 @@ $ git changelog
 
 - add babel support
 - add transpiler fallback support
-- add support for some renamed transpilers (livescript, etc)
+- add support for some renamed transpilers (LiveScript, etc)
 - add JSCS
-- update dependecies (liftoff, interpret)
+- update dependencies (liftoff, interpret)
 - documentation tweaks
 
 ## 3.8.11
 
 - fix node 0.12/iojs problems
-- add node 0.12 and iojs to travis
+- add node 0.12 and ios to Travis
 - update dependencies (liftoff, v8flags)
 - documentation tweaks
 ```
@@ -1067,7 +1067,7 @@ TJ Holowaychuk - Fixed readme
 
 ```
 $ git count
-total 855
+total of 855
 ```
 
 ### create-branch
@@ -1109,7 +1109,7 @@ Deleted feature/dashboard (was 923befa).
 
 ```
 $ git fresh-branch docs
-Removing .DS_Store
+Removing.DS_Store
 Removing .editorconfig
 Removing .gitignore
 ```
@@ -1250,8 +1250,8 @@ Makefile
 ```
 $ git undo
 Unstaged changes after reset:
-M	package.json
-M	readme.md
+M    package.json
+M    readme.md
 ```
 
 ### gh-pages
@@ -2829,14 +2829,14 @@ Make sure you follow the following simple set of rules here while trying to cont
 This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
 
 <table width='100%'>
-	<tr>
-		<td width='500'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/73cedc/c' /></a></td>
-		<td width='500'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/ff40fe/c' /></a></td>
-	</tr>
-	<tr>
-		<td width='500'><a target='_blank' href='https://mythemeshop.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/3166d9/c' /></a></td>
-		<td width='500'><a target='_blank' href='https://ipapi.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://d2ddoduugvun08.cloudfront.net/items/1R190r2U0p3N3L0U0b2u/ip-api.png'/></a></td>
-	</tr>
+    <tr>
+        <td width='500'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/73cedc/c' /></a></td>
+        <td width='500'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/ff40fe/c' /></a></td>
+    </tr>
+    <tr>
+        <td width='500'><a target='_blank' href='https://mythemeshop.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/3166d9/c' /></a></td>
+        <td width='500'><a target='_blank' href='https://ipapi.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://d2ddoduugvun08.cloudfront.net/items/1R190r2U0p3N3L0U0b2u/ip-api.png'/></a></td>
+    </tr>
 </table>
 <br>
 
@@ -2894,7 +2894,7 @@ MIT © [Ahmad Awais](https://github.com/ahmadawais)
 </p>
 
 <div align="center">
-	<p>I have released a video course to help you become a better developer — <a href="https://VSCode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User →</a></p>
+    <p>I have released a video course to help you become a better developer — <a href="https://VSCode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User →</a></p>
     <br />
   <a href="https://VSCode.pro/?utm_source=GitHubFOSS" target="_blank">
   <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/vscodeproPlay.jpg" /><br>VSCode</a>

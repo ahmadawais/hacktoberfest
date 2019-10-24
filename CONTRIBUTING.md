@@ -1,6 +1,7 @@
 # 🙌 Contribution
 
 Contributions are always welcomed.
+feel free to contribute.
 
 Two steps you must follow to contribute to this repository:
 
