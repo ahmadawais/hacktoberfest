@@ -2,12 +2,6 @@
 
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/hacktoberfest.svg?style=social&label=Star)](https://github.com/ahmadawais/hacktoberfest)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/MrAhmadAwais.svg?style=social)](https://twitter.com/MrAhmadAwais)
-
-![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)
-
 
 This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
 
