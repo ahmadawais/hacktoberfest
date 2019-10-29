@@ -2,6 +2,8 @@
 
 ### Show some :heart: and :star: the repo to support the project
 
+#### You can start contributing directly by forking this repository !
+
 [![GitHub stars](https://img.shields.io/github/stars/ahmadawais/hacktoberfest.svg?style=social&label=Star)](https://github.com/ahmadawais/hacktoberfest)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MrAhmadAwais.svg?style=social)](https://twitter.com/MrAhmadAwais)
