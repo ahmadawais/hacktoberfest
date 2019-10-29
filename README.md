@@ -165,7 +165,7 @@ The awesomeness is currently organized into just a few different buckets:
 
 ---
 
-### Infomation for People Who Are New to GitHub
+### :octocat: Infomation for People Who Are New to GitHub
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) — If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
 - [On-Demand GitHub Training](https://services.github.com/on-demand/) — Self-paced, interactive projects created and maintained by GitHub's own Training team.
@@ -187,7 +187,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 - [Fun with GitHub](https://blog.prototypr.io/fun-with-git-8385da9c748c) — A fun overview of GitHub.
 
 
-### Resources for Those Already Familiar With GitHub
+### :octocat: Resources for Those Already Familiar With GitHub
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) — Use this list to test your GitHub knowledge.
 - [GitHub Universe](https://githubuniverse.com/) — Two full days on how to build, collaborate, and deploy
@@ -202,7 +202,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Block Builder](https://blockbuilder.org/) — Quickly create, edit, and fork D3.js examples
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) — Guidelines for creating template files for a GitHub project..
 
-### Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
+### :octocat: Tips, Tricks, Tools, and Add-Ons for GitHub Power Users
 - [GitHub Integrations Directory](https://github.com/integrations) — Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) — Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) — Well, the link kinda' says it all.
@@ -232,7 +232,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Migrating to Git LFS](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) — Easily manage huge files in your Git projects, useful for Data Science projects
 
 
-### Novel Uses of GitHub
+### :octocat: Novel Uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) — Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) — Path to a free self-taught education in Computer Science.
@@ -241,14 +241,14 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) — French Civil Code on GitHub.
 - [Gitron](https://gitron.herokuapp.com) — A web game about GitHub based on Tron movies.
 
-## Configuration management
+## :octocat: Configuration management
 
 - [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
 - [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 - [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 - [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
 
-## DigitalOcean Developer documentation
+## :octocat: DigitalOcean Developer documentation
 
 - [API](https://developers.digitalocean.com/documentation/v2/)
 - [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
@@ -256,14 +256,14 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
 - [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
 
-## GitHub 
+## :octocat: GitHub 
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
 - [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 
-## Open source projects
+## :octocat: Open source projects
 
 - [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
 - [Netbox](https://github.com/digitalocean/netbox)
@@ -271,13 +271,13 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [go-libvirt](https://github.com/digitalocean/go-libvirt)
 - [go-qemu](https://github.com/digitalocean/go-qemu)
 
-## Editors
+## :octocat: Editors
 
 - [Learn VSCode](https://VSCode.pro/) — VSCode.pro Power User Course
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 
-## Community OSS projects
+## :octocat: Community OSS projects
 
 - [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
 - [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
@@ -289,7 +289,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [DigitalOcean Droplet creator](https://github.com/NicholasPCole/dodc) - A dialog-based shell script to quickly create a single DigitalOcean Droplet.
 - [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) - A script to upgrade your DigitalOcean Droplets to better plans with the same cost.
 
-## Clients
+## :octocat: Clients
 
 - [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services.
 - [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
@@ -297,7 +297,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
 - [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
 
-## DigitalOcean Community
+## :octocat: DigitalOcean Community
 
 - [Building a Kubernetes cluster on DigitalOcean using Kubicorn](https://www.youtube.com/watch?v=XpxgSZ3dspE)
 - [Reddit community](https://www.reddit.com/r/digital_ocean/)
@@ -321,7 +321,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 
 ---
 
-## Setup
+## :octocat: Setup
 
 ##### Show current configuration:
 ```
