@@ -12,8 +12,8 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 
-- Hacktoberfest is open to everyone in our global community!
-- Five quality pull requests must be submitted to public GitHub repositories.
+- `Hacktoberfest` is open to everyone in our global community!
+- Five quality `pull requests` must be submitted to public `GitHub` repositories.
 - You can sign up anytime between October 1 and October 31.
 
 ## 💙 Git Resources:
@@ -2580,7 +2580,7 @@ git checkout -b <branch-name>
 ```
 
 
-__Alternatives:__
+## Alternatives: ##
 ```sh
 git branch <branch-name> && git checkout <branch-name>
 ```
