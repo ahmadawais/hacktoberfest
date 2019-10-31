@@ -64,6 +64,7 @@ Listing a few git resources here for everyone.
 - [Keeping WordPress Under "Version" Control with Git](https://stevegrunwell.com/blog/keeping-wordpress-under-version-control-with-git/) by [Steve Grunwell](https://stevegrunwell.com/wp-content/themes/grunwell2012)
 - [Introductory guide to Git for WordPress with resources and tools](https://www.dreamhost.com/blog/using-git-wordpress/)
 - [8 Ways to Sync Git Repositories with WordPress](https://premium.wpmudev.org/blog/syncing-git-wordpress/)
+- [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
 
 ### ⚡️ Git Tools:
 *Various tools for daily operations*
