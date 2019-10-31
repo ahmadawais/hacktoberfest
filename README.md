@@ -48,6 +48,7 @@ Listing a few git resources here for everyone.
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) — great series of articles about Git
 - [Git-it](https://github.com/jlord/git-it-electron) — app-tutorial on Git
 - [Learn Git - Codecademy](https://www.codecademy.com/learn/learn-git) — This course will show you basic workflow and core features, different ways to undo changes or save multiple versions of a project, and how to collaborate with other developers
+- [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
 - [Migrating to Git LFS](https://medium.com/vooban-ai/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files-89132cedf08) — Use Git LFS on an existing repository to manage large files in a better way
 - [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) - CS 50 Git Tutorial
