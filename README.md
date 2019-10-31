@@ -12,7 +12,8 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 
-- Hacktoberfest is open to everyone in our global community!
+- Hacktoberfest is open to everyone in our global community
+- * [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
 - Five quality pull requests must be submitted to public GitHub repositories.
 - You can sign up anytime between October 1 and October 31.
 
