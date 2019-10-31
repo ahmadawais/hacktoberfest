@@ -68,6 +68,7 @@ Listing a few git resources here for everyone.
 ### ⚡️ Git Tools:
 *Various tools for daily operations*
 
+- [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 - [GitHub Desktop](https://desktop.github.com/) — Git Client by GitHub. works with GitHub and GitHub Enterprise seamless
 - [SourceTree](https://www.sourcetreeapp.com/) — free (in-beer) GUI client. Windows and Mac only
 - [GitKraken](https://www.gitkraken.com/) — a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
