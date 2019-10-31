@@ -10,7 +10,7 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 ### What is Hacktoberfest?
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Dev.
 
 - Hacktoberfest is open to everyone in our global community!
 - Five quality pull requests must be submitted to public GitHub repositories.
