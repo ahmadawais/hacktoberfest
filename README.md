@@ -6,7 +6,7 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 
 ![DO](https://on.ahmda.ws/rlEn/c)
 
-## 📝 About Hacktoberfest:
+## 📝 About Hacktoberfest
 
 ### What is Hacktoberfest?
 
@@ -16,11 +16,11 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 - Five quality pull requests must be submitted to public GitHub repositories.
 - You can sign up anytime between October 1 and October 31.
 
-## 💙 Git Resources:
+## 💙 Git Resources
 
 Listing a few git resources here for everyone.
 
-### ⚡️ Git Basics:
+### ⚡️ Git Basics
 
 - An interactive basic tutorial to Git: [try.github.io](https://try.github.io)
 - A very light, but not gentle 👊, guide to Git: [git - the simple guide](https://rogerdudler.github.io/git-guide/)
