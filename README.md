@@ -15,6 +15,7 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 - Hacktoberfest is open to everyone in our global community!
 - Five quality pull requests must be submitted to public GitHub repositories.
 - You can sign up anytime between October 1 and October 31.
+- [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 
 ## 💙 Git Resources:
 
