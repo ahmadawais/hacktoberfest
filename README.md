@@ -1,4 +1,4 @@
-# 🙌 Hacktoberfest
+﻿# 🙌 Hacktoberfest
 
 This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
 
@@ -2812,7 +2812,10 @@ git checkout master@{yesterday}
 ```sh
 git push -u origin <branch_name>
 ```
-
+#### List Version History for current branch
+```
+$ git log
+```
 ## ⚡️ How to Contribute Here?
 Make sure you follow the following simple set of rules here while trying to contribute.
 - Every Pull Request must have a title.
