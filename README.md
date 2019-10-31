@@ -31,6 +31,8 @@ Listing a few git resources here for everyone.
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
 
+- [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
+
 - [Try Git](https://try.github.io/) — learn Git in 15 minutes with pseudo-terminal interface
 - [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request) — learn to create a GitHub Pull Request
 - [GitHub Learning Paths](https://services.github.com/on-demand/resources/learning-path/) — learn about Git, Setup, GitHub, and a lot more
@@ -52,7 +54,6 @@ Listing a few git resources here for everyone.
 - [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) - CS 50 Git Tutorial
 - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123) — The essentials of using the version control system Git
-- [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
 - [How to Use Git and GitHub](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india) — Effective use of version control
 
 ### ⚡️ Git for WordPress:
