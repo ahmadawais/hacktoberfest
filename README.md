@@ -39,6 +39,7 @@ Listing a few git resources here for everyone.
 - [Learn Version Control with Git](https://www.git-tower.com/learn/) — freemium ebook from fournova Software (makers for Tower), associated with paid video course
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - a tutorial on version control with git
 - [Pro Git](https://git-scm.com/book/) — free Git book (CC BY-NC-SA 3.0)
+- [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 - [The Git Community Book](https://schacon.github.io/gitbook/) — book built by dozens of people in the Git community
 - [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) — a short O'Reilly book on Git
 - [Git Real: Code School](https://www.codeschool.com/courses/git-real/) — paid training course from Code School
