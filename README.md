@@ -31,7 +31,7 @@ Listing a few git resources here for everyone.
 ## ⚡️ Git Tutorials:
 *There are tons of learning material on the Web*
 
-- [Try Git](https://try.github.io/) — learn Git in 15 minutes with pseudo-terminal interface
+- [Try Out Git](https://try.github.io/) — learn Git in 15 minutes with pseudo-terminal interface
 - [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request) — learn to create a GitHub Pull Request
 - [GitHub Learning Paths](https://services.github.com/on-demand/resources/learning-path/) — learn about Git, Setup, GitHub, and a lot more
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) — comprehensive tutorial on Git
