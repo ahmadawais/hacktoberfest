@@ -1,6 +1,6 @@
 # 🙌 Hacktoberfest
 
-This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
+This is a Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
 
 [Meetup Event](https://www.meetup.com/DigitalOceanLahore/events/244307272/) sponsorship [DigitalOcean →](https://www.digitalocean.com/)
 
@@ -55,7 +55,7 @@ Listing a few git resources here for everyone.
 - [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
 - [How to Use Git and GitHub](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india) — Effective use of version control
 
-### ⚡️ Git for WordPress:
+### ⚡️ **Git for WordPress**:
 
 - [Beginner Tutorial: How to user Git for WordPress development](https://torquemag.io/2015/10/beginner-tutorial-use-git-wordpress-development/) by [NICK SCHÄFERHOFF](http://nickschaeferhoff.de)
 - WordPress + Git = ♥ - Presenting [VersionPress](https://versionpress.net/)
@@ -113,7 +113,7 @@ Listing a few git resources here for everyone.
 - [Deveo](https://deveo.com/) — a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 - [SourceForge](https://sourceforge.net) — a long-standing free Git repository hosting service
 
-## ⚡️ Git Self-Hosted Repository
+## ⚡️ **Git Self-Hosted Repository**
 *Or you can host the code yourselves*
 
 - [Gitolite](http://gitolite.com/gitolite/) — a simple with fine-grained access control
@@ -129,7 +129,7 @@ Listing a few git resources here for everyone.
 - [Phabricator](https://www.phacility.com/) — an integrated set of powerful tools to help companies build higher quality software
 - [RhodeCode CE/EE](https://rhodecode.com/) — a platform delivering enterprise source code management
 
-## ⚡️ Git Workflow
+## ⚡️ **Git Workflow**
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
 
 - [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
