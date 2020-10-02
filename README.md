@@ -16,6 +16,11 @@ This is a #Hacktoberfest training git repo on GitHub. It contains resources for 
 - Four quality pull requests must be submitted to public GitHub repositories.
 - You can sign up anytime between October 1 and October 31.
 
+## 2020
+
+- [Hacktoberfest 2020 events](https://hacktoberfest.digitalocean.com/events)
+
+
 ## 💙 Git Resources:
 
 Listing a few git resources here for everyone.
