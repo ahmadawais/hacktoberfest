@@ -62,6 +62,7 @@ Listing a few git resources here for everyone.
 - [Getting Started with Git](https://www.pluralsight.com/courses/git-getting-started)
 - [Learn to Manage Code Based Projects and Collaborate Using GitHub](https://www.linkedin.com/learning/subscription/topics/github)
 - [Introduction to Git by DataCamp](https://www.datacamp.com/courses/introduction-to-git)
+- [Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours)
 
 ### ⚡️ Git for WordPress:
 
