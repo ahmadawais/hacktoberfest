@@ -60,6 +60,7 @@ Listing a few git resources here for everyone.
 - [GitHub & Collaboration](https://in.udacity.com/course/github-collaboration--ud456) — The essentials of working with remote repositories
 - [How to Use Git and GitHub](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india) — Effective use of version control
 - [Getting Started with Git](https://www.pluralsight.com/courses/git-getting-started)
+- [Learn to Manage Code Based Projects and Collaborate Using GitHub](https://www.linkedin.com/learning/subscription/topics/github)
 
 ### ⚡️ Git for WordPress:
 
